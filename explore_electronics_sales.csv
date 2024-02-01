@@ -1,0 +1,2001 @@
+date,customer_id,customer_name,salesperson,product,quantity,unit_price
+2019-04-03,655,Scott Perez,Segun,Laptop,3,1000
+2020-05-25,143,Patricia Warren,Andiswa,Bluetooth Keyboard,1,100
+2020-01-22,33,Deborah White,James,Tablet,2,900
+2023-06-29,617,Jeffrey Rogers,Buhari,Bluetooth Keyboard,2,100
+2020-10-14,719,Johnny Bauer,Andiswa,External Hard Drive,2,120
+2023-02-03,285,Lindsay Banks,Buhari,Headphones,4,50
+2023-10-24,160,Bobby Knight,Edmund,VR Headset,1,500
+2019-09-25,100,Frank Fischer,Zolile,Portable Speaker,5,230
+2023-09-30,45,Cameron Moody,Nolo,Bluetooth Keyboard,1,100
+2022-03-16,388,Monica Rivera,Oludare,Bluetooth Keyboard,3,100
+2019-10-20,634,Ralph Ferguson,Zolile,Smart Home Hub,2,200
+2022-09-11,47,Dr. Wendy Garcia DVM,Edmund,Wireless Earbuds,1,200
+2021-08-04,888,Nathan Williams,Segun,E-reader,3,120
+2023-10-10,855,Melissa Fisher,Zolile,Headphones,3,50
+2021-04-11,687,Christina Herrera,James,Tablet,5,900
+2023-09-11,547,Zachary Nelson,Edmund,,4,
+2024-01-22,948,Sheila Lane,Andiswa,Fitness Tracker,3,430
+2022-02-01,795,Tammy Park,Buhari,,1,
+2023-08-31,411,Lauren Oliver,James,Tablet,2,900
+2020-06-21,581,April Benson,Zolile,Digital Camera,4,780
+2021-03-08,937,Nicholas Weiss,Nolo,Smartwatch,3,200
+2023-08-26,763,Karen Braun,Andiswa,Bluetooth Keyboard,3,100
+2020-09-05,439,Keith Bauer,Mbali,Portable Speaker,2,230
+2021-10-25,142,Lauren Andrews,Andiswa,Printer,1,300
+2022-08-14,882,Katrina Burton,Segun,Smartwatch,2,200
+2020-08-04,433,Sara Burns,Segun,,4,
+2021-12-01,480,Larry Humphrey,Andiswa,Gaming Console,5,987
+2023-10-25,12,Nicole Fritz,Segun,Bluetooth Keyboard,3,100
+2019-08-23,349,Caitlyn Jacobs,Segun,Wireless Earbuds,4,200
+2020-03-30,4,Brandon Paul,James,Robot Vacuum Cleaner,2,250
+2021-08-24,109,Jackie Burns,James,,5,
+2019-11-08,383,Wendy Todd,Oludare,Bluetooth Keyboard,5,100
+2021-05-04,614,Adam Harris,Zolile,,1,
+2022-07-01,372,Erica Carter,James,Fitness Tracker,1,430
+2022-01-20,581,April Benson,Segun,Tablet,4,900
+2019-10-14,779,Kelsey Garcia,Andiswa,Smartwatch,2,200
+2022-10-27,970,Joyce Hart,Andiswa,Headphones,3,50
+2020-12-17,622,Tanya Palmer,Mbali,,5,
+2022-07-25,707,Jamie Myers,Edmund,Wireless Earbuds,4,200
+2019-06-20,666,Jonathan Vazquez,Zolile,Smart TV,5,700
+2019-05-20,254,Nicholas Glenn,Edmund,Tablet,3,900
+2021-02-21,568,Stephanie Hudson,Edmund,Smart Home Hub,2,200
+2020-11-28,725,Lisa Harris,Buhari,,1,
+2021-08-04,881,David Strong,Zolile,Tablet,5,900
+2022-12-28,686,William Henderson,Nolo,Digital Camera,5,780
+2023-12-28,958,Shannon Arias,Nolo,Fitness Tracker,4,430
+2020-06-12,195,Jamie Hudson,Segun,Desktop Computer,4,1200
+2019-03-13,421,Melissa Phillips MD,Nolo,Smartphone,1,760
+2022-09-19,746,Teresa Williams DVM,Zolile,Desktop Computer,2,1200
+2022-03-07,550,Kendra Barton,Nolo,Smartwatch,4,200
+2023-04-28,474,John Ford,Edmund,Tablet,4,900
+2019-12-09,877,David Baker,Andiswa,Desktop Computer,1,1200
+2023-01-18,554,Julie Mueller,Buhari,Tablet,2,900
+2019-05-17,498,Doris Freeman MD,Nolo,Digital Camera,4,780
+2020-07-07,169,Rodney Curtis,Mbali,Laptop,4,1000
+2022-01-18,803,Lisa Calderon,Nolo,Wireless Earbuds,4,200
+2019-12-29,749,Meagan Hill,Andiswa,Printer,2,300
+2020-04-11,223,Bruce Meadows,Buhari,Smart Home Hub,5,200
+2019-02-07,322,Penny Murphy,Buhari,Smartphone,5,760
+2019-09-02,942,Dr. Mitchell Garcia,Andiswa,Headphones,1,50
+2022-09-08,83,Dawn Hayes MD,Oludare,,5,
+2021-08-22,883,Marvin Macdonald,Edmund,E-reader,1,120
+2019-11-14,584,Richard Martin,Edmund,Smart Home Hub,5,200
+2019-04-08,84,Sherry Cochran,Mbali,Smart Home Hub,5,200
+2023-11-09,958,Shannon Arias,James,Digital Camera,3,780
+2023-09-24,406,Jaime Hernandez,Oludare,Wireless Earbuds,4,200
+2019-04-22,770,Isaiah Greene,Segun,Laptop,4,1000
+2019-06-15,577,Matthew Long,Segun,Tablet,5,900
+2023-04-14,272,Sandra Hobbs,Oludare,Portable Speaker,1,230
+2020-09-26,379,Janice Harris,James,Headphones,4,50
+2020-11-29,721,Curtis Robinson,James,Drone,5,1300
+2023-06-11,837,Robert Jones,Andiswa,Wireless Earbuds,1,200
+2021-03-20,138,Dawn Brock,James,Desktop Computer,1,1200
+2022-02-15,160,Bobby Knight,James,Wireless Earbuds,5,200
+2021-12-07,352,Anthony Davidson,Edmund,Gaming Console,5,987
+2022-08-20,928,Tammy Lee,Buhari,Tablet,4,900
+2022-07-30,46,Angela Lewis,Buhari,VR Headset,2,500
+2023-02-13,269,Valerie Hernandez,Oludare,Smart TV,5,700
+2023-02-17,575,Daniel Solis,Buhari,Desktop Computer,1,1200
+2023-06-29,708,Kayla Clark,Oludare,Bluetooth Keyboard,1,100
+2020-01-31,597,Leslie Brock,Andiswa,,4,
+2022-02-22,316,Michael Hart,Zolile,Smartphone,3,760
+2023-09-10,256,Jared Howe,Segun,Portable Speaker,5,230
+2021-01-03,417,Justin Brown,Oludare,Fitness Tracker,2,430
+2021-11-15,831,Laura Reyes,Oludare,External Hard Drive,1,120
+2022-05-16,947,Julia Lawrence,Zolile,External Hard Drive,2,120
+2021-04-14,807,Gregory Hall,Segun,E-reader,1,120
+2022-09-23,228,Kelsey Flowers,Edmund,Smart TV,3,700
+2021-07-21,815,Matthew Cooper,Edmund,Fitness Tracker,1,430
+2019-12-01,409,Michael Galloway,Zolile,Gaming Console,1,987
+2021-02-03,286,Shawn Arellano,Zolile,Robot Vacuum Cleaner,4,250
+2019-06-10,864,Jaime Wilcox,Andiswa,VR Headset,1,500
+2020-10-27,994,Dr. Tina Castro,James,Headphones,5,50
+2022-04-22,272,Sandra Hobbs,Buhari,Desktop Computer,5,1200
+2021-02-20,747,Carol Powell,Zolile,External Hard Drive,5,120
+2020-06-08,119,Barbara Young,Mbali,Smart Home Hub,2,200
+2019-03-11,726,Robert Snyder,Mbali,Laptop,5,1000
+2023-04-23,552,Robert Sanders,Edmund,Portable Speaker,4,230
+2022-04-24,681,Brett Jackson,Zolile,Drone,3,1300
+2022-04-16,128,Joshua Holder,James,Robot Vacuum Cleaner,3,250
+2023-12-09,335,Samuel Campbell,Mbali,Wireless Earbuds,5,200
+2020-07-29,431,Anthony Johnston,Mbali,Headphones,5,50
+2022-12-18,416,Robert Solis,Andiswa,Laptop,3,1000
+2020-01-01,441,Jennifer Conley,Zolile,Smart TV,4,700
+2019-06-01,219,Jennifer Rodriguez,Andiswa,Printer,2,300
+2024-01-20,291,Jennifer Tucker,Andiswa,Drone,3,1300
+2021-11-08,975,Cathy Vasquez,Edmund,Wireless Earbuds,2,200
+2022-01-30,151,Alexandria Armstrong,Buhari,,2,
+2020-12-02,626,Dean Hamilton,Segun,,4,
+2024-01-28,590,Mr. Brandon Johnson,Edmund,E-reader,4,120
+2021-01-16,152,Brian Anderson,Buhari,Desktop Computer,4,1200
+2021-09-09,824,Andrew Harris,Andiswa,Smart TV,1,700
+2023-08-26,940,Joshua Davis,Segun,Smart TV,2,700
+2023-09-17,684,Ashley Franco,Andiswa,Bluetooth Keyboard,5,100
+2020-12-30,774,Johnathan Pope,Nolo,Drone,5,1300
+2019-02-05,929,David Gray,Andiswa,Smart TV,2,700
+2023-10-01,487,Mary Smith,Nolo,Gaming Console,2,987
+2024-01-23,284,Mr. Joshua Fritz,Andiswa,Printer,2,300
+2019-12-23,80,Carlos Petty,James,Fitness Tracker,3,430
+2022-02-27,915,Steven Brooks,Andiswa,Tablet,2,900
+2023-10-14,393,Jared Mann,Oludare,Digital Camera,1,780
+2022-04-04,339,Thomas Simmons,Andiswa,Smart TV,4,700
+2020-08-05,853,Dustin Pennington,Mbali,E-reader,5,120
+2021-11-17,21,Jim Burns,Mbali,Printer,1,300
+2022-08-31,306,David Banks,Mbali,External Hard Drive,5,120
+2020-05-08,560,Brad Jackson,Edmund,Printer,2,300
+2021-07-08,498,Doris Freeman MD,Buhari,E-reader,3,120
+2019-10-11,818,Anthony White,Mbali,,4,
+2021-04-16,638,Ashley Hernandez,Andiswa,Laptop,4,1000
+2022-09-04,679,James Buck,Buhari,Tablet,4,900
+2019-09-27,473,Yvonne Stephens,Oludare,Smartphone,3,760
+2023-10-26,217,Mary Johnson,Nolo,VR Headset,3,500
+2020-09-20,389,Steven Henry,James,External Hard Drive,3,120
+2019-08-15,482,Joshua Johnston,Buhari,Bluetooth Keyboard,1,100
+2023-10-05,359,Margaret Wells,Edmund,Tablet,1,900
+2022-06-03,973,John Allen,Edmund,Digital Camera,1,780
+2019-02-05,245,Briana Brown,Oludare,Printer,1,300
+2020-08-26,224,Kara Berry,Nolo,Gaming Console,3,987
+2019-06-28,622,Tanya Palmer,Segun,Headphones,3,50
+2021-12-22,27,Mark Ferguson,James,Smart Home Hub,4,200
+2020-01-14,733,Judy Lee,Edmund,Tablet,5,900
+2022-11-26,643,Audrey Smith,Edmund,Desktop Computer,3,1200
+2020-11-04,615,Michael Jenkins,Segun,Smart Home Hub,1,200
+2020-04-30,439,Keith Bauer,Zolile,Tablet,5,900
+2021-06-05,13,Cameron Johnson,Mbali,Printer,1,300
+2020-02-25,371,Travis Stanley,Nolo,Smartwatch,4,200
+2021-01-26,535,James Cline,James,Drone,5,1300
+2023-03-17,477,Robert Goodman,Mbali,Smart Home Hub,3,200
+2021-08-26,252,Claudia Henry,Segun,Gaming Console,4,987
+2020-01-25,476,Stephanie Schwartz,Mbali,VR Headset,1,500
+2019-07-04,333,Anthony Baker,Oludare,Printer,2,300
+2021-11-15,265,Anthony Barnett,Zolile,Gaming Console,5,987
+2020-05-01,283,Todd Burns,Andiswa,Laptop,5,1000
+2020-09-25,88,Donna Hardy,Edmund,External Hard Drive,4,120
+2020-03-30,247,Jason Gates,Nolo,Printer,4,300
+2019-05-13,96,Lauren Weaver,James,Fitness Tracker,4,430
+2023-11-06,314,Kylie Warren,Zolile,Printer,5,300
+2021-11-02,436,Anthony Lewis,Andiswa,VR Headset,3,500
+2020-11-06,278,Kathleen Martin,James,Gaming Console,2,987
+2019-05-04,198,Monica Torres,Zolile,Desktop Computer,5,1200
+2021-09-29,707,Jamie Myers,Oludare,Digital Camera,2,780
+2020-04-09,284,Mr. Joshua Fritz,Andiswa,Drone,3,1300
+2021-07-03,853,Dustin Pennington,Edmund,Wireless Earbuds,2,200
+2023-11-14,310,Lisa Smith,Buhari,Bluetooth Keyboard,2,100
+2020-01-14,998,Tina James,Buhari,Bluetooth Keyboard,3,100
+2021-01-22,130,Thomas Jenkins,Nolo,Desktop Computer,1,1200
+2023-04-11,481,Jenna Collins,Nolo,Smart TV,3,700
+2020-05-25,53,Mark Delgado,James,Printer,1,300
+2024-01-13,411,Lauren Oliver,Nolo,Tablet,5,900
+2023-01-17,55,Andrew Deleon,Oludare,Smartwatch,5,200
+2019-03-16,88,Donna Hardy,Edmund,Desktop Computer,5,1200
+2022-02-12,621,Megan Freeman,Edmund,Robot Vacuum Cleaner,4,250
+2022-01-20,454,Sarah Clark,James,Smart Home Hub,4,200
+2019-03-26,636,Tiffany Cain,Buhari,Drone,1,1300
+2023-02-12,213,Matthew Mann,Edmund,Gaming Console,1,987
+2021-11-28,178,Patricia Rodriguez,Andiswa,Tablet,2,900
+2023-08-22,462,Michael Frost,Nolo,Wireless Earbuds,1,200
+2022-08-22,724,Dana Graham,James,Smart TV,1,700
+2022-08-21,947,Julia Lawrence,James,Smart Home Hub,2,200
+2023-07-12,558,Dana Smith,Edmund,Smartwatch,3,200
+2023-12-22,74,Steven Dickerson,Buhari,Headphones,3,50
+2022-08-14,845,Samantha Smith,James,Smart TV,1,700
+2019-12-26,312,Danielle Johnson,Mbali,Gaming Console,5,987
+2019-10-01,449,Nicholas Smith,Segun,Drone,1,1300
+2023-08-17,753,Edward Poole,Zolile,Drone,3,1300
+2023-10-10,235,Derrick Clark,Buhari,Gaming Console,5,987
+2020-02-10,775,Mary Grimes,Oludare,Printer,5,300
+2020-02-23,939,George Foster,James,Headphones,5,50
+2023-05-09,834,Cynthia Goodwin,Nolo,Tablet,4,900
+2021-06-05,342,Sheila Nelson,Zolile,Desktop Computer,2,1200
+2021-11-23,711,Paul Alexander,Nolo,Wireless Earbuds,4,200
+2022-03-20,564,Kimberly Bowman,Buhari,Smart TV,1,700
+2019-06-16,332,Courtney Chaney,Segun,E-reader,5,120
+2023-08-09,2,Danielle Olson,Andiswa,Smart TV,4,700
+2020-01-07,531,Tammy Evans,Zolile,Drone,4,1300
+2021-07-04,779,Kelsey Garcia,Buhari,Digital Camera,3,780
+2023-12-28,950,Mrs. Cindy Smith,James,Smart TV,4,700
+2019-06-28,997,Alicia Collins,Edmund,Headphones,3,50
+2023-05-15,566,Benjamin Perez,Mbali,Tablet,2,900
+2021-02-27,935,Gregg Martinez,Segun,Smart TV,1,700
+2023-01-17,158,Kayla Lin,Nolo,Wireless Earbuds,5,200
+2020-06-15,426,Ryan Herrera,Nolo,Printer,2,300
+2019-09-06,149,Frank Payne,Mbali,Digital Camera,5,780
+2019-12-26,901,Joseph Gillespie,Oludare,Tablet,3,900
+2023-01-24,875,Hannah Jones,Mbali,VR Headset,5,500
+2022-04-15,3,Becky Williamson,James,Wireless Earbuds,5,200
+2020-09-17,676,Karen Dunn,Nolo,Smartwatch,4,200
+2023-08-04,354,Mr. Adam Campbell,Zolile,Bluetooth Keyboard,5,100
+2023-12-13,956,Rebecca Castillo,Zolile,Digital Camera,2,780
+2023-03-14,240,Erika Hughes,Mbali,Smartphone,3,760
+2021-08-15,723,Miss Beth Odom MD,Mbali,E-reader,2,120
+2023-06-27,38,Randall Duarte,Oludare,Robot Vacuum Cleaner,5,250
+2021-09-20,103,Zachary Ruiz,Nolo,Desktop Computer,5,1200
+2023-12-24,16,Jacob Stanley,Oludare,External Hard Drive,2,120
+2023-09-23,801,Amber Wallace,James,VR Headset,5,500
+2022-06-23,666,Jonathan Vazquez,Segun,VR Headset,5,500
+2023-04-20,325,David Hawkins,Nolo,Bluetooth Keyboard,1,100
+2022-06-05,241,Heather Wade,James,Fitness Tracker,1,430
+2020-09-05,101,Mrs. Lauren Martin,Segun,Smart TV,2,700
+2021-07-28,926,Melissa Carter,Buhari,Smartphone,3,760
+2020-11-18,301,Haley Schaefer,Zolile,Portable Speaker,4,230
+2019-07-29,544,Andre Jones,Mbali,Smart Home Hub,2,200
+2020-03-23,81,Jenna Fox,Mbali,Drone,2,1300
+2021-07-12,598,Emma Smith,Oludare,Fitness Tracker,4,430
+2021-09-02,471,Allen Burns,James,Laptop,4,1000
+2023-09-10,694,Adam Clark,Andiswa,Headphones,1,50
+2023-09-11,354,Mr. Adam Campbell,James,External Hard Drive,3,120
+2020-07-22,310,Lisa Smith,Edmund,E-reader,4,120
+2021-08-07,391,Samantha Mendez,Zolile,Smart Home Hub,3,200
+2021-05-23,303,Joseph Scott MD,Buhari,E-reader,3,120
+2021-04-15,886,Laura Gray,Buhari,Drone,4,1300
+2021-09-17,925,Laura Smith,James,Fitness Tracker,5,430
+2022-08-10,225,Beth Ware,Edmund,Drone,3,1300
+2019-02-24,739,Destiny James,Oludare,Desktop Computer,1,1200
+2023-03-23,452,Jessica Miller,Buhari,Smart Home Hub,3,200
+2019-08-09,93,Amber Miles,James,VR Headset,4,500
+2020-04-11,136,Karen Chen,Andiswa,Portable Speaker,5,230
+2019-08-28,280,David Mitchell,Oludare,Gaming Console,4,987
+2021-04-27,303,Joseph Scott MD,Zolile,Desktop Computer,4,1200
+2019-09-13,145,Tracey Alexander,Edmund,E-reader,5,120
+2021-08-11,810,Bryan Campos,Mbali,Laptop,3,1000
+2019-06-10,466,Lauren Allen,Zolile,Gaming Console,5,987
+2019-02-02,654,Tammy Meyer,Zolile,Desktop Computer,2,1200
+2022-03-26,635,Raymond Clark,Andiswa,VR Headset,5,500
+2023-12-05,65,David Simmons,Nolo,Wireless Earbuds,4,200
+2022-08-22,47,Dr. Wendy Garcia DVM,Buhari,Wireless Earbuds,4,200
+2021-11-25,241,Heather Wade,Andiswa,Smartwatch,4,200
+2022-02-20,687,Christina Herrera,Andiswa,External Hard Drive,5,120
+2021-06-13,159,Megan Daniels,Mbali,Desktop Computer,4,1200
+2019-02-18,962,Jeff Lewis,James,Smartphone,3,760
+2019-02-24,456,Timothy Wade,Edmund,Portable Speaker,1,230
+2019-05-23,377,Kevin Howard,Andiswa,Portable Speaker,1,230
+2023-05-10,195,Jamie Hudson,Segun,Smart TV,1,700
+2021-05-21,658,Kelsey Perez,Buhari,Smartphone,3,760
+2021-12-16,129,Mary Scott,Edmund,Tablet,5,900
+2021-04-16,222,Matthew Novak,Edmund,VR Headset,2,500
+2022-06-13,611,Jeffrey Mitchell,Buhari,Gaming Console,2,987
+2020-11-22,554,Julie Mueller,James,Headphones,1,50
+2020-09-17,27,Mark Ferguson,Oludare,Laptop,3,1000
+2023-06-25,244,William Potts,Zolile,Laptop,2,1000
+2021-08-01,130,Thomas Jenkins,Mbali,Robot Vacuum Cleaner,1,250
+2021-11-29,488,Joel Nunez,Nolo,Portable Speaker,5,230
+2019-07-20,463,Kristina Mcclure,Andiswa,Fitness Tracker,5,430
+2020-01-11,803,Lisa Calderon,Andiswa,Wireless Earbuds,4,200
+2019-02-22,32,Samantha Farley DVM,Buhari,Printer,4,300
+2019-04-25,111,Melissa Hall,Nolo,Smart TV,1,700
+2022-11-22,330,Kyle Neal,Oludare,Tablet,2,900
+2021-11-11,649,Robert Ruiz,Andiswa,VR Headset,4,500
+2021-09-18,544,Andre Jones,James,Smart TV,5,700
+2022-05-22,102,Mr. Scott Morales,Segun,Bluetooth Keyboard,2,100
+2020-03-01,910,Isabella Santos,Edmund,External Hard Drive,3,120
+2022-05-01,409,Michael Galloway,Mbali,Desktop Computer,3,1200
+2019-08-27,682,James Michael,James,Portable Speaker,2,230
+2020-01-29,486,Adam Ruiz,Segun,Tablet,1,900
+2020-12-03,99,Matthew Zavala,Zolile,Smartwatch,5,200
+2023-09-21,980,Penny Peterson,Andiswa,Bluetooth Keyboard,3,100
+2020-11-28,421,Melissa Phillips MD,Zolile,External Hard Drive,1,120
+2021-10-03,615,Michael Jenkins,James,Portable Speaker,1,230
+2020-09-18,218,Justin Perkins,Oludare,Printer,2,300
+2022-07-13,359,Margaret Wells,Andiswa,Portable Speaker,1,230
+2019-09-19,588,Susan Zimmerman,Edmund,External Hard Drive,5,120
+2019-04-29,839,David Jacobs,Andiswa,Laptop,5,1000
+2023-10-25,850,Scott Nichols,James,Laptop,2,1000
+2023-07-25,781,Kirsten Taylor,James,VR Headset,3,500
+2023-07-31,891,Priscilla Skinner MD,Oludare,Smart Home Hub,4,200
+2023-09-29,759,John Hanson,Buhari,Tablet,5,900
+2023-06-12,430,Donna Blanchard,Nolo,VR Headset,2,500
+2020-09-09,739,Destiny James,Zolile,Smart Home Hub,5,200
+2023-12-07,54,Maurice Carlson,Oludare,Headphones,5,50
+2023-07-06,84,Sherry Cochran,James,Smart TV,4,700
+2021-07-31,453,Whitney Smith,Mbali,Gaming Console,2,987
+2023-02-24,117,Matthew Rodriguez,Zolile,External Hard Drive,1,120
+2020-01-16,695,Michael Palmer,Nolo,Robot Vacuum Cleaner,3,250
+2022-11-04,405,Jose Pruitt,Buhari,Laptop,2,1000
+2021-03-22,217,Mary Johnson,Oludare,Gaming Console,3,987
+2022-10-15,8,Larry Barnett III,Nolo,External Hard Drive,2,120
+2020-09-08,546,Veronica Case,Edmund,Robot Vacuum Cleaner,5,250
+2020-09-13,826,John Lester,Zolile,Tablet,4,900
+2019-04-25,44,Tracy Hampton,Mbali,Laptop,4,1000
+2023-11-24,883,Marvin Macdonald,Zolile,Smart Home Hub,4,200
+2023-03-19,727,Timothy Hampton,Mbali,Wireless Earbuds,1,200
+2021-02-02,990,Wanda Stephens,Zolile,Headphones,5,50
+2021-05-01,707,Jamie Myers,Zolile,Tablet,4,900
+2019-10-21,250,Jennifer Haynes,Mbali,Smart Home Hub,4,200
+2023-11-03,406,Jaime Hernandez,James,VR Headset,2,500
+2022-09-17,173,Cole Nelson,Segun,Robot Vacuum Cleaner,1,250
+2020-03-27,199,Gabriella Richardson,Zolile,Portable Speaker,2,230
+2019-11-24,150,Christina Fisher,James,Digital Camera,2,780
+2023-08-19,779,Kelsey Garcia,Segun,Headphones,4,50
+2023-10-30,578,Sharon Butler,Nolo,Smart Home Hub,5,200
+2022-02-03,995,Deanna Palmer,Zolile,Smartwatch,4,200
+2023-07-25,453,Whitney Smith,James,Gaming Console,5,987
+2022-05-22,520,Harold Bennett,Segun,Wireless Earbuds,4,200
+2020-12-21,59,Nicholas Andrade,Zolile,Wireless Earbuds,1,200
+2020-08-26,876,Dawn Sullivan,Segun,Drone,5,1300
+2023-12-02,474,John Ford,Andiswa,Smartphone,4,760
+2020-02-20,586,Cheryl Richardson,Edmund,VR Headset,5,500
+2020-04-02,155,Christine Brown,Buhari,Smart TV,1,700
+2023-07-27,858,Jacqueline Johnson,Zolile,Tablet,5,900
+2020-04-03,41,Heather Wood,Edmund,Smart TV,4,700
+2019-08-13,625,Jennifer Lewis,Oludare,Portable Speaker,3,230
+2022-01-29,397,Felicia Johnson,Mbali,VR Headset,5,500
+2020-08-30,647,Christopher Miller,Zolile,Tablet,3,900
+2023-10-13,695,Michael Palmer,Mbali,Wireless Earbuds,3,200
+2021-04-17,673,Sarah Gray,Oludare,VR Headset,1,500
+2020-08-28,145,Tracey Alexander,Zolile,Wireless Earbuds,4,200
+2023-12-14,726,Robert Snyder,Segun,Wireless Earbuds,5,200
+2020-12-29,811,Rebecca Miller,Zolile,Smartwatch,5,200
+2023-07-05,687,Christina Herrera,Mbali,Robot Vacuum Cleaner,3,250
+2023-06-23,317,Ryan Ryan,Oludare,Digital Camera,3,780
+2019-12-08,498,Doris Freeman MD,Edmund,Fitness Tracker,2,430
+2019-04-13,303,Joseph Scott MD,Segun,Robot Vacuum Cleaner,5,250
+2019-11-12,905,Danny Morgan,Andiswa,Smartphone,3,760
+2021-07-08,633,Elizabeth Lee,Oludare,Drone,4,1300
+2019-05-27,186,Samuel Johnson,Oludare,Smart TV,1,700
+2020-05-05,693,Andrea Burke,Edmund,Smart TV,5,700
+2020-06-25,767,Drew Bryant,Nolo,Fitness Tracker,5,430
+2020-03-25,989,Jeffrey Schaefer,Nolo,Digital Camera,3,780
+2022-08-29,585,Matthew Montgomery,Nolo,Smart TV,3,700
+2019-06-10,515,Joseph Thornton,Andiswa,External Hard Drive,2,120
+2023-09-27,821,Martin Burke,Oludare,Gaming Console,1,987
+2019-12-19,896,Mary Rose,Zolile,Bluetooth Keyboard,1,100
+2020-06-12,529,Veronica Cervantes,Segun,Wireless Earbuds,1,200
+2023-12-25,280,David Mitchell,Nolo,Robot Vacuum Cleaner,2,250
+2021-11-02,94,Jeremy Wilson,Edmund,Smart TV,3,700
+2023-10-22,425,Roger Henry,Buhari,E-reader,5,120
+2021-11-23,396,Kari Cunningham,Segun,Portable Speaker,2,230
+2021-12-27,954,Shelley Wright,Segun,VR Headset,2,500
+2022-02-25,294,Rebecca Mcintyre,Nolo,Smartwatch,4,200
+2022-11-11,6,Eric Martinez,Segun,Laptop,3,1000
+2023-03-18,154,Erica Crawford,Andiswa,Drone,5,1300
+2022-11-13,795,Tammy Park,James,Fitness Tracker,3,430
+2021-10-24,245,Briana Brown,Mbali,Drone,4,1300
+2020-01-21,857,William Mcpherson,Nolo,Drone,5,1300
+2020-05-03,528,Lisa Mccormick,Edmund,Smartwatch,3,200
+2021-04-23,630,Mitchell Pearson,Zolile,Fitness Tracker,5,430
+2020-05-21,681,Brett Jackson,Segun,Robot Vacuum Cleaner,3,250
+2019-08-07,539,Steven Chaney,Andiswa,Robot Vacuum Cleaner,5,250
+2019-05-03,400,Steven Patel,Nolo,Smartphone,4,760
+2022-02-23,260,Johnny Martin,Buhari,Portable Speaker,1,230
+2020-06-15,751,Jacob Swanson,Segun,Smart Home Hub,3,200
+2021-12-02,361,Samantha Hopkins,Andiswa,VR Headset,2,500
+2023-05-06,702,John Austin,Nolo,Printer,2,300
+2023-04-02,65,David Simmons,Nolo,Smartphone,3,760
+2023-04-10,811,Rebecca Miller,Edmund,Smartphone,3,760
+2022-04-19,528,Lisa Mccormick,Mbali,Bluetooth Keyboard,4,100
+2021-12-25,772,Brenda Maldonado,Edmund,Wireless Earbuds,3,200
+2023-12-03,49,Christopher Hanson,Zolile,Gaming Console,1,987
+2021-06-12,448,Carrie Vang,Mbali,Smart TV,4,700
+2021-01-12,192,Richard Reed,Nolo,Printer,3,300
+2023-06-13,532,Sabrina Abbott,James,Tablet,4,900
+2023-11-30,617,Jeffrey Rogers,Oludare,Bluetooth Keyboard,3,100
+2023-12-23,82,Mr. Brandon Powell,Zolile,Wireless Earbuds,3,200
+2023-09-16,735,Alice Jackson,Mbali,Headphones,4,50
+2022-06-18,44,Tracy Hampton,Zolile,Drone,4,1300
+2023-03-04,811,Rebecca Miller,Buhari,Tablet,4,900
+2021-11-24,821,Martin Burke,Oludare,Laptop,2,1000
+2021-06-23,695,Michael Palmer,Nolo,Smartphone,2,760
+2021-12-28,798,Rachel Drake,Zolile,Portable Speaker,4,230
+2023-10-25,34,Levi Perry,Oludare,Smart TV,3,700
+2019-12-26,782,Scott Mccoy,Segun,Smart Home Hub,2,200
+2021-03-19,408,Monica Jenkins MD,Zolile,Gaming Console,2,987
+2019-02-19,27,Mark Ferguson,Oludare,Printer,5,300
+2021-03-12,576,Jeremy Morrison,Segun,Gaming Console,3,987
+2019-09-23,220,Mallory Zuniga DVM,James,Printer,2,300
+2020-11-19,874,Manuel Mitchell,Segun,Smart TV,2,700
+2021-11-20,456,Timothy Wade,Segun,VR Headset,3,500
+2020-06-08,564,Kimberly Bowman,Andiswa,Wireless Earbuds,3,200
+2022-04-10,729,Aimee Summers,Oludare,Portable Speaker,5,230
+2019-10-05,206,Melissa Pitts,Oludare,Fitness Tracker,4,430
+2019-08-12,568,Stephanie Hudson,Zolile,Smart TV,5,700
+2020-12-02,906,Michael Meyer,Segun,Tablet,3,900
+2021-02-27,735,Alice Jackson,Nolo,Robot Vacuum Cleaner,4,250
+2022-12-25,844,Laura Lamb,Segun,Smartwatch,3,200
+2023-05-24,461,Anthony Duncan,Nolo,Robot Vacuum Cleaner,3,250
+2023-03-26,849,Robert Zavala,Andiswa,Smart Home Hub,2,200
+2022-08-11,133,Julia Ward,Mbali,Robot Vacuum Cleaner,1,250
+2019-03-04,531,Tammy Evans,Oludare,Wireless Earbuds,2,200
+2019-11-21,958,Shannon Arias,Edmund,Portable Speaker,5,230
+2022-01-20,867,Shannon Cruz,Segun,Gaming Console,2,987
+2021-08-22,565,Marie Walker,James,Smartwatch,3,200
+2020-08-15,96,Lauren Weaver,Andiswa,Headphones,5,50
+2023-04-12,158,Kayla Lin,Oludare,Drone,5,1300
+2020-08-29,947,Julia Lawrence,Buhari,Laptop,1,1000
+2023-11-24,657,Margaret King,James,Digital Camera,5,780
+2021-10-10,655,Scott Perez,Buhari,Printer,5,300
+2022-03-27,980,Penny Peterson,James,Printer,2,300
+2023-07-05,702,John Austin,Mbali,Wireless Earbuds,4,200
+2023-05-04,62,Michael Johnson,Oludare,Smart TV,4,700
+2020-06-22,209,Sandra Yates,Zolile,Drone,2,1300
+2022-02-12,736,Devin Daniels,Zolile,Portable Speaker,4,230
+2020-12-15,380,Joseph Johnson,Andiswa,Bluetooth Keyboard,1,100
+2020-06-04,478,Emily Wong,Segun,Gaming Console,4,987
+2019-02-17,100,Frank Fischer,Buhari,Wireless Earbuds,4,200
+2023-11-23,429,Amber Mitchell,Edmund,Headphones,3,50
+2023-10-14,739,Destiny James,Zolile,Digital Camera,2,780
+2022-10-03,528,Lisa Mccormick,Nolo,Printer,3,300
+2019-02-14,93,Amber Miles,Mbali,Robot Vacuum Cleaner,4,250
+2020-09-13,221,Jacob Leblanc,Zolile,Smartphone,1,760
+2021-08-10,612,Jacqueline Hamilton,Nolo,Wireless Earbuds,5,200
+2021-02-25,111,Melissa Hall,Mbali,Smartwatch,3,200
+2020-07-06,783,David Bennett,Mbali,Portable Speaker,1,230
+2023-09-07,584,Richard Martin,Andiswa,Digital Camera,3,780
+2023-07-12,76,Sharon Wall,Mbali,Robot Vacuum Cleaner,4,250
+2020-12-20,287,Heather Garcia,Segun,Smartwatch,1,200
+2021-02-19,814,Kristen Aguilar,Zolile,Bluetooth Keyboard,3,100
+2022-08-22,204,Benjamin Lee,Andiswa,E-reader,5,120
+2020-03-05,40,Tiffany Webster,Oludare,VR Headset,4,500
+2021-11-26,153,Laura Villarreal,Andiswa,Smartwatch,3,200
+2023-01-26,327,Brianna Flores,Oludare,E-reader,5,120
+2020-12-03,307,Cassandra Jordan,Zolile,Robot Vacuum Cleaner,5,250
+2019-09-10,726,Robert Snyder,James,Printer,1,300
+2020-07-15,690,Joshua Mccarthy,Segun,External Hard Drive,5,120
+2021-04-21,921,Shannon Carpenter,Buhari,Drone,4,1300
+2023-06-15,672,Norma Kelly,Edmund,Smartphone,5,760
+2019-05-05,537,Lawrence Lyons,Mbali,Smartwatch,2,200
+2019-03-04,971,Willie Medina,Segun,Digital Camera,1,780
+2019-08-27,429,Amber Mitchell,Oludare,External Hard Drive,2,120
+2019-12-30,794,Lindsay Lester,Nolo,Smartphone,2,760
+2022-06-04,575,Daniel Solis,Zolile,Printer,5,300
+2020-06-05,980,Penny Peterson,Oludare,Smart TV,5,700
+2019-09-02,363,Jason Rodriguez,James,Drone,4,1300
+2022-02-15,253,Amanda Martin,James,Bluetooth Keyboard,3,100
+2022-04-30,997,Alicia Collins,James,Wireless Earbuds,2,200
+2020-06-17,501,Bruce Nelson,Zolile,Printer,3,300
+2019-05-17,957,Stephen Vega,James,Wireless Earbuds,1,200
+2021-04-24,557,Tracy Adams,Mbali,E-reader,3,120
+2020-09-04,824,Andrew Harris,Oludare,Wireless Earbuds,1,200
+2021-03-09,732,Heather Stevens,Segun,Portable Speaker,4,230
+2021-01-30,766,Albert Bailey,Nolo,Digital Camera,2,780
+2021-02-18,278,Kathleen Martin,Andiswa,Gaming Console,2,987
+2020-08-03,759,John Hanson,Edmund,Fitness Tracker,1,430
+2019-10-07,544,Andre Jones,Edmund,Fitness Tracker,1,430
+2022-04-16,339,Thomas Simmons,Nolo,Desktop Computer,2,1200
+2019-02-01,564,Kimberly Bowman,Oludare,External Hard Drive,4,120
+2021-04-13,205,Rachel Malone,James,VR Headset,3,500
+2023-03-18,930,Amanda Whitaker,Segun,Smart Home Hub,2,200
+2020-06-05,741,Courtney Mcguire,Buhari,Headphones,4,50
+2021-11-14,181,Michael Hansen,Buhari,E-reader,4,120
+2022-09-19,767,Drew Bryant,James,Smartphone,1,760
+2019-10-08,618,Sarah Ellison,Segun,VR Headset,3,500
+2019-12-28,657,Margaret King,Andiswa,Robot Vacuum Cleaner,4,250
+2022-08-31,138,Dawn Brock,Andiswa,Smart TV,3,700
+2022-08-23,116,Pamela Madden,Zolile,Headphones,4,50
+2022-09-04,736,Devin Daniels,Oludare,Laptop,3,1000
+2023-07-03,582,Roy Copeland,Edmund,Headphones,5,50
+2019-02-20,919,Courtney Hill,Mbali,External Hard Drive,5,120
+2021-03-04,411,Lauren Oliver,Segun,Headphones,2,50
+2023-04-26,959,Scott Woods,Edmund,Laptop,3,1000
+2022-08-21,458,Joshua Smith,James,VR Headset,3,500
+2019-09-02,587,Annette Sosa,Buhari,Gaming Console,3,987
+2021-12-08,64,Thomas Stone,Segun,Smart TV,3,700
+2021-12-25,703,Julie Wheeler DDS,Andiswa,Wireless Earbuds,1,200
+2021-08-01,964,Robert Allen,James,Portable Speaker,5,230
+2024-01-20,981,Jesse Nichols,Oludare,Printer,2,300
+2022-10-23,621,Megan Freeman,Zolile,External Hard Drive,5,120
+2023-08-20,776,Amanda Carter,Andiswa,Digital Camera,2,780
+2019-05-18,611,Jeffrey Mitchell,Segun,Robot Vacuum Cleaner,4,250
+2021-11-04,371,Travis Stanley,Segun,Smart Home Hub,1,200
+2021-08-16,561,Lisa Li MD,Andiswa,Digital Camera,5,780
+2022-09-27,169,Rodney Curtis,Zolile,Robot Vacuum Cleaner,4,250
+2021-09-10,211,Becky Brown,Nolo,Tablet,5,900
+2020-05-11,57,Sandra Johnson,Nolo,Smartwatch,5,200
+2023-11-21,578,Sharon Butler,Buhari,Bluetooth Keyboard,4,100
+2022-09-23,316,Michael Hart,Buhari,E-reader,3,120
+2023-03-04,764,Robert Contreras,Edmund,Smart Home Hub,1,200
+2020-10-18,353,Barbara Sheppard,Segun,Bluetooth Keyboard,1,100
+2019-03-17,71,Mr. Kyle Johnson,Nolo,Smartphone,3,760
+2021-04-12,788,Robert Johnson,Oludare,External Hard Drive,3,120
+2020-04-23,392,Nicholas Sanchez,Nolo,E-reader,4,120
+2023-02-05,988,Sarah Clark,Andiswa,Smartwatch,3,200
+2019-04-07,551,Michael Young,Mbali,Robot Vacuum Cleaner,2,250
+2019-08-21,229,Karina Allen,Buhari,Laptop,3,1000
+2019-11-09,737,Stephanie Hensley,Andiswa,External Hard Drive,5,120
+2022-11-12,236,Kevin Mora,Edmund,Smart TV,3,700
+2023-10-18,194,Leah Hansen,Segun,Smartphone,4,760
+2023-12-28,959,Scott Woods,Buhari,Fitness Tracker,2,430
+2022-08-09,609,Kristen Brown,Buhari,Smart TV,5,700
+2020-05-17,894,Leslie Cortez,Buhari,Fitness Tracker,1,430
+2021-10-03,240,Erika Hughes,Andiswa,Digital Camera,1,780
+2021-03-01,297,Micheal Morgan,Edmund,Smart Home Hub,3,200
+2019-08-07,792,Justin Jackson,Zolile,Fitness Tracker,3,430
+2021-08-26,677,Alicia Turner,Andiswa,Fitness Tracker,4,430
+2022-09-22,63,Michael Fox,Andiswa,Smart Home Hub,2,200
+2023-09-21,438,Mr. James Benton,Andiswa,Printer,1,300
+2023-03-06,965,Brian Downs,Mbali,Robot Vacuum Cleaner,3,250
+2020-02-06,419,Nicholas Moss,Oludare,Wireless Earbuds,4,200
+2023-08-10,551,Michael Young,Nolo,Fitness Tracker,2,430
+2021-11-27,725,Lisa Harris,Oludare,Smart TV,1,700
+2019-05-31,992,Melinda Adams,Mbali,Bluetooth Keyboard,5,100
+2023-12-05,249,Diana Elliott,James,Digital Camera,3,780
+2019-11-03,945,David Rollins,Nolo,Portable Speaker,1,230
+2023-08-15,850,Scott Nichols,Edmund,Smartphone,3,760
+2021-01-30,620,April Jordan,Buhari,Tablet,2,900
+2021-07-16,602,Ralph Ross,Andiswa,Digital Camera,4,780
+2021-11-02,929,David Gray,Zolile,Wireless Earbuds,1,200
+2022-09-18,195,Jamie Hudson,Segun,Printer,2,300
+2023-06-13,721,Curtis Robinson,Edmund,E-reader,2,120
+2019-10-24,795,Tammy Park,James,E-reader,4,120
+2021-09-15,368,Rachel Melton,James,Gaming Console,3,987
+2023-08-19,510,Laura Moore,Nolo,Desktop Computer,4,1200
+2022-08-16,328,Andrew Terrell,Edmund,Portable Speaker,3,230
+2019-06-10,577,Matthew Long,Edmund,Smartwatch,1,200
+2019-07-05,958,Shannon Arias,Mbali,Wireless Earbuds,2,200
+2021-11-16,236,Kevin Mora,Mbali,Smart Home Hub,2,200
+2021-10-25,671,Crystal Larson,Zolile,Gaming Console,4,987
+2020-09-08,658,Kelsey Perez,Nolo,Smart TV,2,700
+2023-01-25,361,Samantha Hopkins,Oludare,Smartwatch,5,200
+2022-02-06,939,George Foster,Andiswa,Smartphone,5,760
+2023-07-10,868,David Wilson,Segun,Smartphone,1,760
+2023-05-01,863,Yesenia Morris,Edmund,Tablet,2,900
+2019-02-07,518,James Smith MD,Nolo,Portable Speaker,1,230
+2019-09-15,683,Kimberly Kelly,Nolo,Printer,1,300
+2021-07-17,565,Marie Walker,Mbali,Laptop,1,1000
+2020-03-12,282,Amanda Henson,Andiswa,Wireless Earbuds,1,200
+2023-03-07,715,Sarah Bates,Mbali,Headphones,1,50
+2021-07-08,537,Lawrence Lyons,Oludare,Fitness Tracker,2,430
+2023-07-26,259,Michael Hart,Zolile,Gaming Console,4,987
+2019-08-14,983,Courtney Valdez,Mbali,Smart TV,5,700
+2019-03-24,714,Rachel Smith,Edmund,Wireless Earbuds,1,200
+2021-06-30,879,Lindsey Glenn,Buhari,Tablet,4,900
+2020-12-03,566,Benjamin Perez,Nolo,Smartphone,1,760
+2022-01-08,85,Ms. Jacqueline Anderson,Nolo,External Hard Drive,3,120
+2021-03-01,879,Lindsey Glenn,Segun,Robot Vacuum Cleaner,1,250
+2022-12-19,923,Gregory Smith,Nolo,Gaming Console,1,987
+2019-06-05,701,Brian Atkinson,James,Bluetooth Keyboard,5,100
+2020-10-13,184,Samantha Robertson,Zolile,Laptop,2,1000
+2023-09-12,771,Scott Wagner,Mbali,Tablet,3,900
+2020-08-12,247,Jason Gates,Mbali,Bluetooth Keyboard,3,100
+2023-09-17,758,Jennifer Fernandez,Oludare,Tablet,5,900
+2019-04-07,355,Erin Woods,Buhari,Desktop Computer,4,1200
+2020-03-19,78,Michael Calderon,Zolile,Drone,5,1300
+2020-10-20,407,Traci Cummings,Zolile,Laptop,3,1000
+2021-11-02,462,Michael Frost,Nolo,Fitness Tracker,3,430
+2021-01-05,385,Mrs. Monica Mitchell,Mbali,Headphones,5,50
+2020-09-27,88,Donna Hardy,James,Fitness Tracker,1,430
+2019-02-26,158,Kayla Lin,Mbali,Smartwatch,4,200
+2021-05-30,110,Theresa Richard,Segun,Laptop,3,1000
+2023-01-01,780,Stephen Rogers,James,Desktop Computer,2,1200
+2019-10-07,442,Robert Jefferson,Nolo,Bluetooth Keyboard,5,100
+2021-02-26,106,Matthew Trujillo,Buhari,Tablet,3,900
+2021-08-29,612,Jacqueline Hamilton,Zolile,E-reader,1,120
+2021-08-02,398,Jason Young,Segun,Bluetooth Keyboard,2,100
+2019-08-26,174,Charles Ramos,Mbali,Headphones,2,50
+2019-12-19,275,Carl Scott,Nolo,Smartwatch,1,200
+2020-02-26,283,Todd Burns,Mbali,Wireless Earbuds,4,200
+2020-05-18,370,Erin Reed,James,Fitness Tracker,4,430
+2020-05-27,201,Robert Matthews,Nolo,Desktop Computer,2,1200
+2020-10-23,972,Melanie French,Mbali,VR Headset,5,500
+2022-04-19,883,Marvin Macdonald,Zolile,Smart TV,3,700
+2022-04-18,844,Laura Lamb,Oludare,Wireless Earbuds,3,200
+2021-02-17,712,Kristen Walker,Edmund,Printer,3,300
+2021-07-06,408,Monica Jenkins MD,Zolile,Wireless Earbuds,4,200
+2021-06-18,801,Amber Wallace,Edmund,VR Headset,4,500
+2021-04-10,805,Kaylee Callahan,Mbali,Portable Speaker,1,230
+2019-09-20,205,Rachel Malone,Andiswa,Headphones,5,50
+2022-03-21,745,Heidi Lopez,Nolo,Digital Camera,4,780
+2021-08-14,852,Jennifer Patton,Segun,External Hard Drive,4,120
+2023-05-09,311,Michael Bradford,Edmund,Gaming Console,2,987
+2022-03-09,809,Jonathan Austin,Mbali,Tablet,4,900
+2022-12-02,491,Kevin Moreno,Mbali,Bluetooth Keyboard,5,100
+2020-11-27,891,Priscilla Skinner MD,Mbali,Bluetooth Keyboard,1,100
+2022-03-20,369,Caleb Lee,Andiswa,Drone,1,1300
+2020-09-17,255,Kathleen Ali,Zolile,Headphones,5,50
+2020-10-14,661,Matthew Skinner,Mbali,VR Headset,4,500
+2021-07-28,101,Mrs. Lauren Martin,James,Fitness Tracker,5,430
+2021-04-18,572,Jacqueline Parker,Edmund,Smart TV,3,700
+2022-05-23,791,Elizabeth Parker,Andiswa,Smartwatch,3,200
+2021-09-15,495,Justin Stephens,Segun,Wireless Earbuds,4,200
+2023-04-26,88,Donna Hardy,Segun,Smartwatch,3,200
+2023-01-24,467,Scott Delacruz,Edmund,Robot Vacuum Cleaner,4,250
+2023-08-31,100,Frank Fischer,Nolo,Smart TV,3,700
+2023-02-03,46,Angela Lewis,Segun,Laptop,3,1000
+2019-07-08,694,Adam Clark,Oludare,Fitness Tracker,5,430
+2020-07-08,164,Amanda Bradford,Zolile,Bluetooth Keyboard,4,100
+2020-12-24,238,Amy Ford,Mbali,Headphones,2,50
+2022-07-10,443,Victoria Gonzalez,Mbali,Laptop,5,1000
+2021-08-12,461,Anthony Duncan,Mbali,E-reader,1,120
+2023-07-22,211,Becky Brown,James,Tablet,5,900
+2019-09-09,893,Emily Newton,Andiswa,Headphones,3,50
+2022-03-03,469,Anthony Medina,Segun,Gaming Console,4,987
+2022-04-10,655,Scott Perez,Zolile,Drone,4,1300
+2019-11-27,602,Ralph Ross,Segun,Portable Speaker,3,230
+2023-04-30,633,Elizabeth Lee,Oludare,Wireless Earbuds,5,200
+2023-12-16,689,Richard Stevens,Oludare,VR Headset,1,500
+2023-05-24,120,Marcus Davis,Oludare,Portable Speaker,2,230
+2024-01-27,429,Amber Mitchell,Oludare,Smart Home Hub,4,200
+2021-06-16,499,Billy Lee,Andiswa,Headphones,5,50
+2019-07-03,296,Rachel Perez,Oludare,Headphones,3,50
+2021-09-02,635,Raymond Clark,Buhari,Portable Speaker,1,230
+2020-08-27,200,Jonathan Moore,Mbali,Bluetooth Keyboard,5,100
+2020-09-26,419,Nicholas Moss,Nolo,External Hard Drive,4,120
+2019-06-30,85,Ms. Jacqueline Anderson,Buhari,Fitness Tracker,3,430
+2023-04-21,231,James Miller,Andiswa,Wireless Earbuds,2,200
+2021-09-07,580,Jacob Smith,Nolo,Bluetooth Keyboard,5,100
+2019-03-11,117,Matthew Rodriguez,James,Bluetooth Keyboard,3,100
+2023-12-06,775,Mary Grimes,Buhari,Smart TV,5,700
+2019-03-14,436,Anthony Lewis,Segun,Fitness Tracker,3,430
+2020-04-19,34,Levi Perry,Nolo,Gaming Console,3,987
+2020-08-14,90,Kathleen Tucker,Nolo,Desktop Computer,2,1200
+2023-12-08,756,Donald Glover,Zolile,Drone,4,1300
+2022-06-23,143,Patricia Warren,Edmund,Digital Camera,1,780
+2022-03-19,546,Veronica Case,James,Drone,5,1300
+2019-12-21,721,Curtis Robinson,James,Wireless Earbuds,5,200
+2021-10-17,879,Lindsey Glenn,Andiswa,Desktop Computer,2,1200
+2023-05-07,805,Kaylee Callahan,Mbali,Smartphone,3,760
+2021-07-16,130,Thomas Jenkins,Oludare,Fitness Tracker,2,430
+2022-07-18,849,Robert Zavala,Edmund,E-reader,4,120
+2023-08-02,648,Cynthia Montes,James,External Hard Drive,4,120
+2023-09-30,649,Robert Ruiz,Segun,E-reader,5,120
+2020-12-02,712,Kristen Walker,Zolile,Smart TV,4,700
+2020-01-06,3,Becky Williamson,Segun,Smart TV,3,700
+2019-05-18,815,Matthew Cooper,Andiswa,E-reader,2,120
+2022-01-22,845,Samantha Smith,Edmund,Printer,3,300
+2021-02-27,291,Jennifer Tucker,Zolile,Bluetooth Keyboard,5,100
+2021-02-02,873,Larry Banks,Nolo,VR Headset,1,500
+2021-03-12,642,Michelle Knight,Nolo,Laptop,1,1000
+2023-09-06,162,Madison Hubbard,Nolo,Smart TV,1,700
+2020-04-10,439,Keith Bauer,Edmund,Smartwatch,3,200
+2019-09-28,956,Rebecca Castillo,James,Tablet,3,900
+2023-11-02,381,Michael Jackson,Oludare,Smartphone,4,760
+2022-05-14,744,Justin Mcguire,Edmund,External Hard Drive,1,120
+2020-11-02,2,Danielle Olson,Edmund,Printer,1,300
+2020-01-31,232,Jasmine Watts,Andiswa,Smart TV,1,700
+2019-08-22,352,Anthony Davidson,Segun,External Hard Drive,2,120
+2019-05-26,235,Derrick Clark,Mbali,Tablet,1,900
+2022-08-21,377,Kevin Howard,James,Smartwatch,4,200
+2019-12-27,772,Brenda Maldonado,Oludare,Smartwatch,1,200
+2019-08-14,9,Traci Conner,Oludare,Smart TV,3,700
+2023-12-03,644,Hunter Gutierrez,Oludare,External Hard Drive,5,120
+2019-08-06,881,David Strong,Edmund,Tablet,1,900
+2020-12-18,127,Patricia Morales,Mbali,Portable Speaker,4,230
+2023-10-28,144,Cassandra Nelson,Edmund,Gaming Console,1,987
+2021-05-10,616,Darrell Barrett,James,Laptop,3,1000
+2021-12-30,622,Tanya Palmer,Andiswa,Digital Camera,4,780
+2021-09-16,56,Abigail Miller,Edmund,Printer,4,300
+2022-03-22,512,Felicia Coleman,Segun,Robot Vacuum Cleaner,1,250
+2019-07-19,957,Stephen Vega,Zolile,Smartwatch,4,200
+2020-05-07,583,Michael Cooke,Mbali,Portable Speaker,5,230
+2022-03-18,782,Scott Mccoy,Nolo,Tablet,1,900
+2023-05-04,15,Daniel Wallace,James,Digital Camera,1,780
+2021-12-05,972,Melanie French,Mbali,Robot Vacuum Cleaner,3,250
+2021-11-11,514,Melissa Hanson,Mbali,External Hard Drive,4,120
+2020-10-15,550,Kendra Barton,Andiswa,Drone,2,1300
+2023-11-06,318,Thomas Mcfarland,Segun,Robot Vacuum Cleaner,2,250
+2023-11-17,160,Bobby Knight,Andiswa,VR Headset,4,500
+2021-09-13,782,Scott Mccoy,Segun,Wireless Earbuds,4,200
+2019-06-06,867,Shannon Cruz,Edmund,Smartphone,2,760
+2022-12-05,445,Ronald White,Segun,Smart TV,5,700
+2022-09-19,317,Ryan Ryan,Oludare,Desktop Computer,1,1200
+2022-11-26,719,Johnny Bauer,Buhari,Headphones,4,50
+2023-07-14,536,William Fuller,Andiswa,Gaming Console,2,987
+2022-08-27,768,Diana Jimenez,James,Desktop Computer,1,1200
+2020-03-08,440,Nancy Watson,James,Robot Vacuum Cleaner,1,250
+2019-03-07,999,Nancy Griffin,Segun,Printer,4,300
+2020-08-10,57,Sandra Johnson,Nolo,Smart Home Hub,2,200
+2019-10-19,262,Steven Walker,Segun,Smart Home Hub,1,200
+2019-03-17,522,Mark Harris,Buhari,Smartphone,1,760
+2020-02-01,484,Lisa Tate,Zolile,E-reader,2,120
+2020-09-12,984,Hayley Nguyen,Buhari,Bluetooth Keyboard,4,100
+2019-10-31,255,Kathleen Ali,Mbali,VR Headset,3,500
+2020-03-15,586,Cheryl Richardson,Zolile,Desktop Computer,5,1200
+2020-02-04,54,Maurice Carlson,Oludare,Fitness Tracker,5,430
+2021-04-27,977,Paul Vaughan,Mbali,Tablet,4,900
+2022-03-14,793,Gregory Davis,James,VR Headset,1,500
+2023-12-01,9,Traci Conner,Zolile,Digital Camera,3,780
+2021-09-23,312,Danielle Johnson,Edmund,Smart TV,3,700
+2021-11-21,506,Elizabeth Nguyen,Edmund,Bluetooth Keyboard,2,100
+2019-12-10,955,Chad Lewis,Mbali,Laptop,2,1000
+2021-03-08,652,Tiffany Travis,Buhari,VR Headset,1,500
+2023-04-09,386,Nicole Richardson,James,Desktop Computer,2,1200
+2023-08-05,244,William Potts,Mbali,Printer,1,300
+2020-03-24,146,Mark Martin,James,Tablet,1,900
+2024-01-16,919,Courtney Hill,Andiswa,External Hard Drive,3,120
+2022-06-30,766,Albert Bailey,Segun,Smart Home Hub,1,200
+2019-03-16,653,Sheila Martinez,Mbali,Tablet,5,900
+2019-10-26,446,Veronica Andrews,Oludare,Fitness Tracker,3,430
+2023-01-24,323,Alexander Morse,Mbali,VR Headset,3,500
+2021-03-18,240,Erika Hughes,Segun,Digital Camera,2,780
+2020-04-25,599,Jared Nolan,Segun,Smartwatch,1,200
+2019-11-26,478,Emily Wong,Zolile,External Hard Drive,1,120
+2023-06-18,988,Sarah Clark,Edmund,Smart TV,3,700
+2019-10-21,873,Larry Banks,Segun,Tablet,2,900
+2021-04-09,312,Danielle Johnson,Buhari,Digital Camera,3,780
+2021-11-08,729,Aimee Summers,Edmund,Portable Speaker,4,230
+2022-05-03,694,Adam Clark,James,Gaming Console,2,987
+2019-04-29,415,Jeremy Lloyd,Nolo,Bluetooth Keyboard,5,100
+2019-10-08,474,John Ford,Segun,Smartwatch,1,200
+2022-04-09,851,Dale Arnold,Edmund,Smartwatch,2,200
+2019-11-22,382,Susan Rocha,Segun,Smart Home Hub,5,200
+2019-05-26,833,Kristie Alexander,Segun,Laptop,1,1000
+2021-08-02,662,Alexandra Lindsey,Nolo,Smartwatch,1,200
+2019-12-10,850,Scott Nichols,Zolile,Desktop Computer,1,1200
+2019-06-05,52,Jose Smith,Oludare,Smart Home Hub,4,200
+2021-05-20,405,Jose Pruitt,Nolo,Laptop,4,1000
+2019-09-05,177,Jeffrey Henry,Zolile,Digital Camera,2,780
+2020-11-03,457,Scott Daniels,Oludare,Smartphone,5,760
+2022-10-24,252,Claudia Henry,James,Printer,4,300
+2020-11-26,491,Kevin Moreno,Buhari,Tablet,3,900
+2020-07-02,430,Donna Blanchard,Edmund,Robot Vacuum Cleaner,2,250
+2023-12-29,822,Holly Arellano,Andiswa,Laptop,4,1000
+2022-03-13,368,Rachel Melton,Nolo,Bluetooth Keyboard,4,100
+2022-08-08,580,Jacob Smith,Andiswa,VR Headset,4,500
+2023-01-16,27,Mark Ferguson,Zolile,Drone,2,1300
+2023-11-11,831,Laura Reyes,James,Smartphone,4,760
+2021-10-20,786,Steven Miles,Edmund,Headphones,1,50
+2019-07-04,247,Jason Gates,James,Bluetooth Keyboard,1,100
+2019-11-09,971,Willie Medina,Edmund,Smart Home Hub,4,200
+2021-08-17,860,Jonathan Barrett,Oludare,Headphones,2,50
+2019-07-20,826,John Lester,Zolile,Smart Home Hub,1,200
+2021-10-23,361,Samantha Hopkins,Oludare,Smart Home Hub,2,200
+2023-10-23,830,Danielle Green,Nolo,Bluetooth Keyboard,3,100
+2023-05-29,39,Stephen Jones,Segun,Smartphone,2,760
+2021-06-10,21,Jim Burns,Andiswa,Printer,1,300
+2022-10-13,629,Shane Hanson,Edmund,Smartwatch,3,200
+2022-05-22,941,Anthony Davis,Zolile,Smartphone,1,760
+2019-08-17,722,Darrell Kirby,Oludare,Desktop Computer,5,1200
+2021-01-22,984,Hayley Nguyen,Segun,Portable Speaker,4,230
+2020-05-24,345,Eric Mathis,James,VR Headset,2,500
+2021-09-29,750,John Guerra,Mbali,Printer,3,300
+2022-10-07,992,Melinda Adams,Andiswa,Drone,3,1300
+2022-01-26,604,Rebecca Webster,Oludare,E-reader,3,120
+2020-09-05,302,Kimberly Torres,Oludare,Headphones,1,50
+2021-05-21,972,Melanie French,Mbali,Smart Home Hub,1,200
+2020-01-05,326,Valerie Lindsey,Edmund,Smart Home Hub,1,200
+2019-04-29,145,Tracey Alexander,Zolile,Tablet,2,900
+2019-02-18,328,Andrew Terrell,Oludare,Tablet,3,900
+2020-11-11,272,Sandra Hobbs,Edmund,Fitness Tracker,1,430
+2023-12-26,806,Sherri Moore,Segun,Laptop,1,1000
+2023-04-21,751,Jacob Swanson,Mbali,Headphones,4,50
+2019-02-09,388,Monica Rivera,Zolile,Bluetooth Keyboard,4,100
+2020-09-03,491,Kevin Moreno,Edmund,Headphones,4,50
+2023-01-03,867,Shannon Cruz,Buhari,Wireless Earbuds,1,200
+2022-04-20,975,Cathy Vasquez,Segun,Tablet,3,900
+2022-09-06,385,Mrs. Monica Mitchell,Oludare,Tablet,5,900
+2023-12-11,96,Lauren Weaver,Zolile,Drone,5,1300
+2020-11-14,722,Darrell Kirby,Buhari,External Hard Drive,2,120
+2023-05-30,445,Ronald White,Oludare,Smartphone,1,760
+2019-10-31,998,Tina James,Edmund,External Hard Drive,5,120
+2023-07-12,748,Michael Harris,Andiswa,Gaming Console,3,987
+2019-08-07,99,Matthew Zavala,Buhari,E-reader,5,120
+2022-01-30,503,Mrs. Emily Bennett,Oludare,Smartphone,3,760
+2019-04-05,90,Kathleen Tucker,James,Drone,4,1300
+2019-05-25,27,Mark Ferguson,Edmund,Headphones,3,50
+2019-12-13,485,Cynthia Fisher,Segun,Wireless Earbuds,4,200
+2023-03-26,917,Andrea Castro,James,Tablet,5,900
+2020-12-09,380,Joseph Johnson,Mbali,Portable Speaker,2,230
+2020-07-12,270,Toni Riddle,Nolo,Smart TV,3,700
+2021-02-25,276,Tracy Harrison,Buhari,Smartwatch,1,200
+2021-07-07,353,Barbara Sheppard,Andiswa,External Hard Drive,5,120
+2020-06-22,63,Michael Fox,Mbali,Robot Vacuum Cleaner,4,250
+2021-10-28,704,Justin Hines,Nolo,Smart Home Hub,2,200
+2020-06-03,81,Jenna Fox,Mbali,Smartphone,5,760
+2023-12-09,530,Kathleen Lamb,Oludare,Desktop Computer,4,1200
+2021-03-27,172,Sarah Madden DDS,Edmund,Digital Camera,2,780
+2019-01-31,81,Jenna Fox,Mbali,Digital Camera,2,780
+2021-06-16,265,Anthony Barnett,Zolile,Tablet,1,900
+2021-09-10,407,Traci Cummings,Andiswa,VR Headset,3,500
+2022-09-29,940,Joshua Davis,Buhari,Drone,5,1300
+2020-06-04,430,Donna Blanchard,Segun,External Hard Drive,2,120
+2020-01-18,603,Laura Evans,Segun,Desktop Computer,5,1200
+2021-02-03,805,Kaylee Callahan,James,Bluetooth Keyboard,3,100
+2022-04-10,271,Chad Olson,Mbali,Printer,5,300
+2022-10-05,39,Stephen Jones,Oludare,Gaming Console,4,987
+2021-02-26,624,Travis Black,Mbali,Smartphone,4,760
+2020-05-05,340,Jennifer Martin,Edmund,Smartphone,4,760
+2023-09-26,919,Courtney Hill,Zolile,Laptop,3,1000
+2021-06-15,311,Michael Bradford,James,Gaming Console,4,987
+2023-03-25,702,John Austin,Segun,Fitness Tracker,2,430
+2023-02-20,762,Leslie Collins,Nolo,VR Headset,3,500
+2023-08-03,620,April Jordan,Segun,Digital Camera,4,780
+2019-10-09,844,Laura Lamb,Mbali,Printer,5,300
+2021-03-22,841,Carlos Banks,Buhari,Robot Vacuum Cleaner,2,250
+2020-08-03,727,Timothy Hampton,Andiswa,E-reader,2,120
+2022-07-26,537,Lawrence Lyons,Buhari,Headphones,2,50
+2022-11-30,206,Melissa Pitts,Buhari,Fitness Tracker,1,430
+2019-08-07,941,Anthony Davis,Zolile,Digital Camera,3,780
+2023-09-03,476,Stephanie Schwartz,Andiswa,E-reader,1,120
+2021-05-21,248,Tammy Miller,Zolile,Printer,5,300
+2020-02-19,984,Hayley Nguyen,Nolo,Smart Home Hub,5,200
+2021-11-04,168,Robert Martinez,James,Tablet,3,900
+2022-11-06,51,Daniel Dean,Oludare,Smart Home Hub,2,200
+2022-05-10,663,Calvin Smith,Edmund,Digital Camera,3,780
+2020-07-19,526,Melissa Martin,Buhari,Laptop,4,1000
+2020-10-06,663,Calvin Smith,Oludare,Drone,1,1300
+2023-04-08,623,Jeff Snyder,James,Gaming Console,4,987
+2023-01-19,873,Larry Banks,Zolile,Smart TV,3,700
+2020-03-21,310,Lisa Smith,Andiswa,Drone,4,1300
+2019-06-08,8,Larry Barnett III,Andiswa,Portable Speaker,5,230
+2021-03-12,624,Travis Black,James,Wireless Earbuds,1,200
+2021-05-02,345,Eric Mathis,James,VR Headset,3,500
+2019-07-25,729,Aimee Summers,James,Digital Camera,2,780
+2021-08-02,247,Jason Gates,Buhari,Drone,4,1300
+2023-01-31,698,Monica Roach,Oludare,Laptop,4,1000
+2020-06-02,266,Mark Miller,Mbali,E-reader,4,120
+2019-06-16,598,Emma Smith,Edmund,VR Headset,2,500
+2023-02-18,654,Tammy Meyer,Nolo,Portable Speaker,5,230
+2021-11-27,175,Lisa Murphy,Andiswa,Headphones,3,50
+2023-01-16,132,Eric Mercer,James,Bluetooth Keyboard,2,100
+2023-05-12,922,Allison Robinson,Zolile,Tablet,2,900
+2019-12-11,763,Karen Braun,James,External Hard Drive,3,120
+2022-05-11,600,Timothy Giles,James,Smart TV,1,700
+2022-12-15,888,Nathan Williams,Segun,Printer,2,300
+2019-08-22,889,Joseph Davis,Mbali,Robot Vacuum Cleaner,3,250
+2020-04-22,892,Christine Good,Oludare,Smartwatch,2,200
+2022-07-05,584,Richard Martin,Nolo,Smartwatch,3,200
+2021-09-28,185,Michael Ochoa,Segun,Printer,3,300
+2023-10-12,182,Ashley Roberts,Zolile,Smartphone,1,760
+2023-01-18,215,Charles Castaneda,Oludare,Smart Home Hub,2,200
+2020-08-07,782,Scott Mccoy,Segun,Smartwatch,5,200
+2023-01-16,440,Nancy Watson,Mbali,External Hard Drive,4,120
+2022-10-05,39,Stephen Jones,Andiswa,Digital Camera,3,780
+2020-07-10,914,Richard Jackson,Zolile,Robot Vacuum Cleaner,2,250
+2023-12-18,5,Michael Hernandez,Edmund,Fitness Tracker,3,430
+2020-11-27,106,Matthew Trujillo,Mbali,Robot Vacuum Cleaner,5,250
+2021-04-09,67,Wanda Stein,Buhari,Wireless Earbuds,3,200
+2023-12-08,533,Mark Ramirez,Andiswa,VR Headset,4,500
+2023-03-12,138,Dawn Brock,Zolile,Printer,3,300
+2022-12-14,169,Rodney Curtis,Mbali,Laptop,2,1000
+2022-07-31,135,Rebecca Kennedy,Edmund,Laptop,5,1000
+2023-07-22,127,Patricia Morales,Zolile,Smartphone,4,760
+2023-05-02,262,Steven Walker,Andiswa,Drone,1,1300
+2024-01-08,50,Julie Williamson,Segun,Laptop,1,1000
+2020-11-26,427,Ronald Sanchez,Nolo,E-reader,1,120
+2021-01-27,486,Adam Ruiz,Oludare,Digital Camera,1,780
+2023-12-23,678,Leslie Hurley DDS,Segun,Robot Vacuum Cleaner,3,250
+2019-10-26,718,Michael Leonard,Oludare,External Hard Drive,1,120
+2019-04-10,633,Elizabeth Lee,Segun,Wireless Earbuds,1,200
+2020-03-02,510,Laura Moore,Edmund,Drone,2,1300
+2019-09-08,852,Jennifer Patton,Andiswa,Digital Camera,3,780
+2019-10-14,303,Joseph Scott MD,Oludare,Smartphone,5,760
+2021-12-20,213,Matthew Mann,Nolo,VR Headset,2,500
+2023-11-22,688,Amanda Smith,Segun,Desktop Computer,5,1200
+2020-03-23,153,Laura Villarreal,Segun,Robot Vacuum Cleaner,1,250
+2021-05-21,104,Troy Lozano,James,Fitness Tracker,4,430
+2021-08-05,304,Jamie Bailey,James,Smart TV,1,700
+2021-04-17,179,Jeremy Nguyen,Buhari,Wireless Earbuds,3,200
+2022-01-17,321,Rachel Ramsey,Mbali,Desktop Computer,1,1200
+2019-12-07,912,Gregory Villarreal,Buhari,Laptop,2,1000
+2022-10-31,175,Lisa Murphy,Zolile,Portable Speaker,4,230
+2022-08-08,275,Carl Scott,Segun,Portable Speaker,3,230
+2021-09-10,411,Lauren Oliver,Mbali,Smart TV,3,700
+2021-06-06,707,Jamie Myers,Nolo,External Hard Drive,2,120
+2022-11-26,713,Paul Brown,Buhari,Headphones,1,50
+2020-06-30,605,Angela Hays,Nolo,Smart Home Hub,4,200
+2019-07-21,389,Steven Henry,Zolile,Drone,1,1300
+2021-04-11,902,Bryan Brown,Oludare,Printer,4,300
+2020-02-27,422,Glenn Duran,Nolo,Smartphone,1,760
+2019-03-08,322,Penny Murphy,Buhari,Robot Vacuum Cleaner,5,250
+2022-08-13,230,Tabitha Ortiz,Zolile,Robot Vacuum Cleaner,5,250
+2020-11-14,634,Ralph Ferguson,Segun,External Hard Drive,2,120
+2020-04-30,680,Pamela Greene MD,Mbali,Smartwatch,5,200
+2020-12-24,628,Megan Gardner,Buhari,Laptop,2,1000
+2023-01-20,481,Jenna Collins,Nolo,Headphones,1,50
+2021-02-08,329,Marie Scott,Edmund,VR Headset,3,500
+2023-12-12,229,Karina Allen,Andiswa,E-reader,4,120
+2020-01-17,81,Jenna Fox,Nolo,Smart TV,5,700
+2020-04-11,878,Ricky Guzman,Nolo,Smart TV,3,700
+2019-11-04,510,Laura Moore,Buhari,Desktop Computer,4,1200
+2022-11-22,571,Roy Gray,Andiswa,Laptop,1,1000
+2019-06-24,987,Alex Austin,James,Robot Vacuum Cleaner,5,250
+2022-09-28,688,Amanda Smith,Nolo,VR Headset,3,500
+2022-11-02,837,Robert Jones,Edmund,Smart TV,3,700
+2020-03-04,635,Raymond Clark,Nolo,Portable Speaker,4,230
+2023-07-28,778,Robert Gardner,Edmund,Laptop,3,1000
+2020-09-21,649,Robert Ruiz,James,Bluetooth Keyboard,5,100
+2023-07-24,109,Jackie Burns,Buhari,Headphones,4,50
+2020-03-22,735,Alice Jackson,Mbali,Desktop Computer,3,1200
+2022-02-26,193,Emily Morgan,Segun,E-reader,2,120
+2019-07-06,801,Amber Wallace,Edmund,VR Headset,1,500
+2021-10-29,48,Amanda Taylor,Segun,Smart TV,4,700
+2023-11-24,980,Penny Peterson,Andiswa,Smartwatch,4,200
+2020-06-04,754,Philip Fritz,Buhari,Bluetooth Keyboard,4,100
+2020-02-08,495,Justin Stephens,Andiswa,Headphones,5,50
+2022-08-14,835,Leslie White,Oludare,Desktop Computer,4,1200
+2020-04-26,621,Megan Freeman,Zolile,Robot Vacuum Cleaner,4,250
+2021-08-04,624,Travis Black,Edmund,Gaming Console,4,987
+2020-01-19,994,Dr. Tina Castro,James,Smart TV,2,700
+2020-12-28,617,Jeffrey Rogers,Andiswa,Wireless Earbuds,5,200
+2023-05-30,729,Aimee Summers,Andiswa,Digital Camera,2,780
+2022-07-21,732,Heather Stevens,James,Portable Speaker,2,230
+2022-10-26,666,Jonathan Vazquez,Oludare,Robot Vacuum Cleaner,5,250
+2019-04-28,331,Angela Hunt,Segun,Portable Speaker,5,230
+2019-06-03,585,Matthew Montgomery,Mbali,Bluetooth Keyboard,3,100
+2023-12-04,433,Sara Burns,Buhari,Robot Vacuum Cleaner,1,250
+2022-11-02,149,Frank Payne,Buhari,Smartphone,2,760
+2021-09-19,805,Kaylee Callahan,Oludare,Wireless Earbuds,3,200
+2019-10-30,64,Thomas Stone,James,Digital Camera,5,780
+2022-03-25,834,Cynthia Goodwin,Nolo,Desktop Computer,5,1200
+2021-09-01,758,Jennifer Fernandez,Andiswa,Fitness Tracker,5,430
+2023-12-21,524,Adrian Williams,James,Smartphone,4,760
+2022-05-23,980,Penny Peterson,Zolile,Bluetooth Keyboard,1,100
+2021-02-20,258,Michael Bruce,Edmund,Drone,4,1300
+2019-08-04,934,Brian Anderson,Zolile,Smart Home Hub,5,200
+2022-09-24,202,Mark Mason,Edmund,Wireless Earbuds,4,200
+2020-05-15,700,Dr. Matthew Powell DDS,Segun,Headphones,2,50
+2023-04-27,123,David Richards,Mbali,Smartphone,4,760
+2020-03-31,271,Chad Olson,Oludare,Headphones,5,50
+2021-06-09,6,Eric Martinez,Zolile,Smart TV,2,700
+2021-12-11,951,Gina Burns,Zolile,Drone,1,1300
+2022-03-06,641,Elizabeth Schroeder,James,Printer,5,300
+2022-07-31,75,Thomas Cook,Zolile,Robot Vacuum Cleaner,2,250
+2022-04-22,534,Nicole Lane,Segun,Robot Vacuum Cleaner,2,250
+2019-03-06,550,Kendra Barton,Mbali,Tablet,3,900
+2022-05-17,219,Jennifer Rodriguez,Zolile,VR Headset,3,500
+2019-10-21,974,Christopher Martinez,Andiswa,Printer,5,300
+2021-10-27,665,Nancy Garcia,Buhari,Desktop Computer,3,1200
+2019-10-05,927,Lori Cunningham,Edmund,Smartphone,3,760
+2021-05-24,816,Kimberly Vance,Segun,E-reader,3,120
+2021-01-13,290,Ricardo Crane,Buhari,Robot Vacuum Cleaner,3,250
+2021-08-22,521,Kyle Burke,Nolo,Printer,1,300
+2023-11-20,668,Shaun Ward,Edmund,VR Headset,5,500
+2022-01-21,99,Matthew Zavala,Oludare,Bluetooth Keyboard,5,100
+2022-04-28,68,Richard Murray,Edmund,Digital Camera,4,780
+2023-06-23,211,Becky Brown,Andiswa,External Hard Drive,1,120
+2020-01-27,158,Kayla Lin,Buhari,Smart TV,3,700
+2022-10-03,76,Sharon Wall,Buhari,Headphones,3,50
+2022-11-06,589,John Moses,Edmund,Gaming Console,4,987
+2020-04-18,646,Rebecca Downs,Mbali,External Hard Drive,3,120
+2021-09-12,690,Joshua Mccarthy,Segun,Bluetooth Keyboard,1,100
+2023-10-03,634,Ralph Ferguson,Segun,Smart Home Hub,1,200
+2019-09-25,75,Thomas Cook,Zolile,Robot Vacuum Cleaner,1,250
+2020-05-08,703,Julie Wheeler DDS,James,Drone,1,1300
+2022-02-04,949,Heather Mitchell,Nolo,E-reader,4,120
+2022-12-03,32,Samantha Farley DVM,Nolo,Headphones,5,50
+2020-03-16,765,Jeremiah Miller,Mbali,Bluetooth Keyboard,3,100
+2021-12-29,148,Christopher Jones,James,Portable Speaker,1,230
+2021-11-06,569,Thomas Vargas,Oludare,Desktop Computer,1,1200
+2019-09-19,611,Jeffrey Mitchell,Mbali,Bluetooth Keyboard,5,100
+2020-10-26,313,Alan Quinn,Edmund,Portable Speaker,2,230
+2022-08-24,662,Alexandra Lindsey,Andiswa,Smartwatch,2,200
+2020-10-05,632,Teresa Schultz,James,Digital Camera,1,780
+2019-12-24,819,Mary Gomez,Buhari,Bluetooth Keyboard,4,100
+2020-02-02,75,Thomas Cook,James,Tablet,3,900
+2022-12-23,744,Justin Mcguire,Nolo,VR Headset,3,500
+2022-08-29,672,Norma Kelly,Edmund,Desktop Computer,3,1200
+2020-10-16,922,Allison Robinson,Edmund,VR Headset,4,500
+2021-06-07,632,Teresa Schultz,James,Smart Home Hub,2,200
+2019-09-25,374,Robert Bishop,Zolile,External Hard Drive,2,120
+2021-02-02,253,Amanda Martin,Edmund,External Hard Drive,3,120
+2022-06-19,138,Dawn Brock,Zolile,Printer,4,300
+2019-04-17,794,Lindsay Lester,James,Printer,5,300
+2023-08-06,662,Alexandra Lindsey,Segun,Gaming Console,2,987
+2021-09-09,202,Mark Mason,James,Tablet,1,900
+2019-10-20,870,Ronnie Webb DVM,Andiswa,Laptop,5,1000
+2022-03-08,788,Robert Johnson,Edmund,Smartphone,5,760
+2020-11-21,916,Megan Johnson,Andiswa,Printer,2,300
+2023-10-21,229,Karina Allen,James,Smartwatch,4,200
+2019-04-21,93,Amber Miles,Mbali,Portable Speaker,5,230
+2022-03-02,245,Briana Brown,Oludare,Robot Vacuum Cleaner,2,250
+2020-09-10,184,Samantha Robertson,Oludare,Printer,3,300
+2023-11-30,780,Stephen Rogers,Nolo,Fitness Tracker,1,430
+2022-07-18,240,Erika Hughes,Buhari,Digital Camera,5,780
+2020-11-27,370,Erin Reed,Mbali,Printer,4,300
+2020-06-08,41,Heather Wood,Zolile,Desktop Computer,5,1200
+2022-01-14,281,Kim Randall,James,Smart Home Hub,5,200
+2022-11-09,386,Nicole Richardson,Mbali,Portable Speaker,5,230
+2022-06-18,856,Brandi Kramer,Segun,Robot Vacuum Cleaner,3,250
+2023-05-02,930,Amanda Whitaker,Edmund,Robot Vacuum Cleaner,4,250
+2023-03-24,889,Joseph Davis,Zolile,Printer,4,300
+2021-11-02,7,Brian Baldwin,Andiswa,Smartwatch,4,200
+2022-06-10,79,Kyle Taylor,Andiswa,Gaming Console,2,987
+2022-03-09,162,Madison Hubbard,Zolile,Drone,1,1300
+2021-05-15,425,Roger Henry,Zolile,Desktop Computer,4,1200
+2020-11-14,491,Kevin Moreno,Edmund,Smart Home Hub,2,200
+2021-09-09,421,Melissa Phillips MD,Buhari,Fitness Tracker,1,430
+2022-07-24,607,Brandon Jenkins,Oludare,Smartwatch,5,200
+2019-12-19,587,Annette Sosa,Oludare,Smartphone,2,760
+2021-09-01,185,Michael Ochoa,Andiswa,E-reader,5,120
+2023-04-11,653,Sheila Martinez,Buhari,Wireless Earbuds,1,200
+2023-11-27,622,Tanya Palmer,Nolo,Printer,2,300
+2022-12-21,421,Melissa Phillips MD,Oludare,Smart Home Hub,2,200
+2020-11-12,524,Adrian Williams,James,Headphones,3,50
+2022-01-16,611,Jeffrey Mitchell,Segun,Fitness Tracker,4,430
+2020-05-22,112,Daniel Powers,Buhari,Digital Camera,5,780
+2019-02-11,517,Candace Robinson,Mbali,Smartwatch,5,200
+2023-05-26,488,Joel Nunez,Buhari,Bluetooth Keyboard,5,100
+2022-01-20,96,Lauren Weaver,Nolo,Smartwatch,5,200
+2020-03-28,2,Danielle Olson,Mbali,Robot Vacuum Cleaner,4,250
+2021-12-11,45,Cameron Moody,Andiswa,External Hard Drive,2,120
+2022-10-27,494,Matthew Foster,Mbali,Portable Speaker,5,230
+2020-04-11,930,Amanda Whitaker,Segun,External Hard Drive,2,120
+2020-08-26,785,Julie Wilson,Edmund,Tablet,3,900
+2023-09-06,557,Tracy Adams,Mbali,Gaming Console,2,987
+2020-08-08,762,Leslie Collins,Buhari,Smart Home Hub,5,200
+2019-03-14,8,Larry Barnett III,Mbali,Digital Camera,3,780
+2022-10-19,110,Theresa Richard,Oludare,External Hard Drive,5,120
+2023-08-26,876,Dawn Sullivan,Andiswa,External Hard Drive,5,120
+2021-10-26,283,Todd Burns,Mbali,Digital Camera,4,780
+2019-12-26,571,Roy Gray,Nolo,Headphones,3,50
+2021-08-31,496,Lindsey Foster,James,Wireless Earbuds,5,200
+2020-12-24,723,Miss Beth Odom MD,Mbali,Smartwatch,1,200
+2022-02-02,458,Joshua Smith,Oludare,Desktop Computer,2,1200
+2023-12-06,805,Kaylee Callahan,Zolile,Bluetooth Keyboard,5,100
+2022-06-30,724,Dana Graham,Buhari,Headphones,4,50
+2020-02-22,6,Eric Martinez,Segun,Smartwatch,4,200
+2019-03-21,446,Veronica Andrews,Segun,Tablet,3,900
+2021-04-24,82,Mr. Brandon Powell,Buhari,E-reader,4,120
+2022-01-30,534,Nicole Lane,James,Drone,1,1300
+2020-09-26,840,Deborah Burns,Oludare,Printer,4,300
+2020-12-26,871,Amy Carter,Andiswa,Wireless Earbuds,2,200
+2022-05-24,614,Adam Harris,Andiswa,Robot Vacuum Cleaner,2,250
+2020-05-17,691,William Smith,Buhari,Portable Speaker,2,230
+2023-11-03,1000,Kimberly Young,Oludare,Tablet,3,900
+2022-09-01,362,Shannon Mitchell,Mbali,E-reader,5,120
+2023-03-17,16,Jacob Stanley,Segun,Tablet,5,900
+2023-10-10,850,Scott Nichols,Andiswa,Smart Home Hub,3,200
+2023-09-15,836,Kathy Ruiz,James,Fitness Tracker,5,430
+2021-05-03,466,Lauren Allen,Mbali,Smart Home Hub,1,200
+2021-09-21,417,Justin Brown,Andiswa,Desktop Computer,5,1200
+2019-05-28,302,Kimberly Torres,Zolile,Desktop Computer,5,1200
+2019-10-23,898,Nathan Sparks,Andiswa,Smart Home Hub,3,200
+2020-11-22,990,Wanda Stephens,Mbali,Smart Home Hub,4,200
+2020-08-30,776,Amanda Carter,Zolile,Smart TV,4,700
+2022-06-24,883,Marvin Macdonald,Buhari,Printer,1,300
+2023-03-15,392,Nicholas Sanchez,Edmund,Fitness Tracker,3,430
+2022-03-10,362,Shannon Mitchell,Andiswa,Bluetooth Keyboard,1,100
+2023-11-06,270,Toni Riddle,Edmund,Wireless Earbuds,1,200
+2023-08-27,767,Drew Bryant,Zolile,Tablet,5,900
+2020-08-31,488,Joel Nunez,Zolile,Portable Speaker,2,230
+2022-05-18,276,Tracy Harrison,Oludare,Digital Camera,4,780
+2020-12-02,241,Heather Wade,Edmund,Gaming Console,2,987
+2020-03-23,855,Melissa Fisher,Edmund,Drone,3,1300
+2021-08-20,110,Theresa Richard,Segun,Tablet,4,900
+2020-05-09,783,David Bennett,Andiswa,Smartphone,4,760
+2021-02-21,323,Alexander Morse,Nolo,Smart Home Hub,3,200
+2020-12-08,783,David Bennett,Andiswa,Gaming Console,4,987
+2022-07-31,591,Michael Watkins,Oludare,Smartphone,5,760
+2020-03-22,490,Megan Higgins,Andiswa,Smartphone,5,760
+2024-01-13,882,Katrina Burton,Oludare,Smart TV,1,700
+2023-09-28,472,Jacqueline Strickland,Zolile,Laptop,1,1000
+2019-02-16,389,Steven Henry,Segun,VR Headset,3,500
+2022-09-07,266,Mark Miller,Oludare,Bluetooth Keyboard,3,100
+2023-06-21,483,Sandra Sullivan,Zolile,Portable Speaker,2,230
+2022-09-12,216,Samantha Perry,Mbali,Portable Speaker,3,230
+2021-09-16,287,Heather Garcia,Nolo,Headphones,5,50
+2021-02-27,590,Mr. Brandon Johnson,Edmund,Desktop Computer,3,1200
+2022-05-12,569,Thomas Vargas,Mbali,E-reader,2,120
+2019-12-15,983,Courtney Valdez,Oludare,Printer,1,300
+2023-12-22,512,Felicia Coleman,Oludare,Robot Vacuum Cleaner,5,250
+2021-04-27,805,Kaylee Callahan,Nolo,Wireless Earbuds,3,200
+2022-05-06,582,Roy Copeland,Buhari,E-reader,1,120
+2021-08-14,62,Michael Johnson,Edmund,Gaming Console,4,987
+2022-01-25,99,Matthew Zavala,Nolo,VR Headset,3,500
+2022-11-27,574,Bryan Armstrong,Andiswa,Gaming Console,3,987
+2022-07-26,125,Dawn Romero,Zolile,Drone,2,1300
+2022-03-14,666,Jonathan Vazquez,Andiswa,Headphones,3,50
+2021-11-04,690,Joshua Mccarthy,Andiswa,Printer,4,300
+2021-02-14,391,Samantha Mendez,James,Smart TV,2,700
+2022-12-20,656,Sarah Adams,Zolile,External Hard Drive,5,120
+2019-10-16,870,Ronnie Webb DVM,Segun,Tablet,2,900
+2023-06-19,322,Penny Murphy,Zolile,Wireless Earbuds,3,200
+2021-02-21,405,Jose Pruitt,James,Smart TV,3,700
+2019-06-03,534,Nicole Lane,Nolo,External Hard Drive,2,120
+2022-11-15,24,Daniel Medina,Oludare,Fitness Tracker,3,430
+2020-12-14,718,Michael Leonard,Segun,Digital Camera,2,780
+2023-12-20,98,Juan Simon,Segun,Printer,5,300
+2023-12-21,790,Katherine Jones,Mbali,Robot Vacuum Cleaner,1,250
+2020-04-21,633,Elizabeth Lee,Oludare,Tablet,4,900
+2019-12-29,254,Nicholas Glenn,James,Smart TV,2,700
+2024-01-02,859,Susan Buckley,Oludare,Laptop,1,1000
+2023-08-26,882,Katrina Burton,Zolile,Printer,4,300
+2020-06-08,554,Julie Mueller,James,Bluetooth Keyboard,4,100
+2019-09-14,972,Melanie French,Andiswa,Headphones,5,50
+2020-12-22,647,Christopher Miller,Mbali,Robot Vacuum Cleaner,5,250
+2022-07-04,356,Jack Long,Nolo,Bluetooth Keyboard,2,100
+2021-03-21,453,Whitney Smith,James,Portable Speaker,4,230
+2023-12-31,311,Michael Bradford,Buhari,Laptop,5,1000
+2019-05-17,869,Cindy Bradford,Oludare,Portable Speaker,3,230
+2022-07-28,9,Traci Conner,Nolo,Printer,3,300
+2023-02-23,441,Jennifer Conley,James,Drone,2,1300
+2021-08-12,562,Shannon Hodge,Zolile,Digital Camera,4,780
+2019-08-12,448,Carrie Vang,Mbali,Fitness Tracker,2,430
+2023-09-08,662,Alexandra Lindsey,Mbali,E-reader,2,120
+2020-10-13,433,Sara Burns,Edmund,Robot Vacuum Cleaner,5,250
+2021-02-15,702,John Austin,James,Wireless Earbuds,5,200
+2020-07-28,423,Danielle Parker,Edmund,Tablet,2,900
+2020-12-02,114,Amanda Zhang,Nolo,Drone,4,1300
+2019-04-23,638,Ashley Hernandez,Nolo,Digital Camera,3,780
+2021-10-31,51,Daniel Dean,Andiswa,Laptop,2,1000
+2023-10-03,289,James Hardy,James,Smartwatch,4,200
+2021-07-14,239,Nicholas Barry,Segun,Smartwatch,1,200
+2020-06-28,351,Sara Garcia,Mbali,Wireless Earbuds,4,200
+2021-07-10,475,Michael Figueroa,Buhari,VR Headset,1,500
+2020-03-27,975,Cathy Vasquez,Oludare,Smartphone,3,760
+2022-03-27,74,Steven Dickerson,Andiswa,Printer,2,300
+2019-08-17,862,Todd Villanueva,James,E-reader,1,120
+2023-12-15,787,Justin Johnson,Edmund,E-reader,4,120
+2021-05-06,35,Courtney Long,Edmund,Smart TV,1,700
+2020-06-09,214,Hannah Preston,Nolo,E-reader,3,120
+2021-08-26,163,Sheryl Allen,Buhari,Bluetooth Keyboard,5,100
+2021-07-17,493,Luis James,James,Digital Camera,3,780
+2019-09-02,885,Gene Perez,Edmund,Desktop Computer,2,1200
+2020-01-25,333,Anthony Baker,Buhari,Headphones,3,50
+2020-08-14,406,Jaime Hernandez,Edmund,Laptop,1,1000
+2020-12-01,708,Kayla Clark,Nolo,Drone,2,1300
+2023-01-20,92,Michael Peters,Edmund,Headphones,4,50
+2020-06-18,634,Ralph Ferguson,Zolile,Smartphone,1,760
+2021-01-12,158,Kayla Lin,Andiswa,Desktop Computer,2,1200
+2020-10-20,325,David Hawkins,Andiswa,Portable Speaker,4,230
+2020-08-11,22,Nathan White,Mbali,Portable Speaker,2,230
+2019-10-06,41,Heather Wood,Nolo,Smart TV,5,700
+2020-06-18,714,Rachel Smith,Nolo,Digital Camera,5,780
+2019-02-25,357,Tammy Howe,Zolile,Smart TV,3,700
+2021-12-01,614,Adam Harris,Andiswa,Headphones,1,50
+2021-03-05,461,Anthony Duncan,James,Gaming Console,5,987
+2020-02-06,1,Tammy Morales,Andiswa,E-reader,2,120
+2021-10-19,635,Raymond Clark,Zolile,Drone,2,1300
+2022-10-03,65,David Simmons,Andiswa,E-reader,2,120
+2021-08-12,510,Laura Moore,Andiswa,Smartwatch,5,200
+2021-10-12,420,Brian Wood,Zolile,Desktop Computer,1,1200
+2022-04-17,69,Amanda Elliott,Buhari,Smartwatch,2,200
+2021-06-23,207,Dawn Navarro,Segun,Printer,2,300
+2022-12-21,585,Matthew Montgomery,Mbali,Printer,5,300
+2020-06-28,605,Angela Hays,James,Smartphone,3,760
+2019-07-03,736,Devin Daniels,Segun,Laptop,2,1000
+2022-04-15,951,Gina Burns,Segun,Smart TV,1,700
+2019-07-22,762,Leslie Collins,Mbali,Portable Speaker,1,230
+2020-04-02,273,Paige Garcia,Andiswa,Smartphone,1,760
+2020-06-21,80,Carlos Petty,Edmund,Robot Vacuum Cleaner,1,250
+2021-11-04,237,David Townsend,Andiswa,E-reader,2,120
+2021-02-05,673,Sarah Gray,Edmund,Smart Home Hub,2,200
+2020-01-04,572,Jacqueline Parker,Mbali,Desktop Computer,5,1200
+2021-05-05,470,Rhonda Chen,Mbali,Desktop Computer,2,1200
+2022-11-24,564,Kimberly Bowman,Mbali,Robot Vacuum Cleaner,3,250
+2023-06-09,547,Zachary Nelson,Nolo,Portable Speaker,3,230
+2023-06-20,333,Anthony Baker,Zolile,External Hard Drive,4,120
+2022-12-31,332,Courtney Chaney,Edmund,Smart Home Hub,5,200
+2019-10-02,785,Julie Wilson,Andiswa,Gaming Console,3,987
+2019-07-28,459,Matthew Powell,Mbali,Laptop,1,1000
+2021-11-04,611,Jeffrey Mitchell,Buhari,Robot Vacuum Cleaner,2,250
+2023-07-03,310,Lisa Smith,Buhari,Wireless Earbuds,2,200
+2022-12-19,323,Alexander Morse,Buhari,Gaming Console,5,987
+2020-05-27,585,Matthew Montgomery,Oludare,Desktop Computer,1,1200
+2023-03-13,160,Bobby Knight,Oludare,Gaming Console,3,987
+2019-05-30,256,Jared Howe,Edmund,Gaming Console,3,987
+2021-07-03,410,Diana Bennett,Edmund,Tablet,3,900
+2021-01-21,178,Patricia Rodriguez,Nolo,Smart Home Hub,1,200
+2023-11-27,308,Laurie Camacho,Buhari,Smart Home Hub,4,200
+2021-11-03,58,John Fisher,Zolile,Portable Speaker,4,230
+2020-04-05,889,Joseph Davis,Segun,Fitness Tracker,5,430
+2020-12-05,650,Stacie Hines,Mbali,Smartphone,3,760
+2023-04-30,327,Brianna Flores,Andiswa,Smart Home Hub,2,200
+2022-11-27,715,Sarah Bates,Edmund,Smartwatch,1,200
+2023-06-30,403,Sandra Combs,Nolo,Drone,5,1300
+2024-01-02,228,Kelsey Flowers,Mbali,Wireless Earbuds,4,200
+2020-07-04,345,Eric Mathis,Segun,Printer,5,300
+2019-02-05,562,Shannon Hodge,Mbali,Gaming Console,1,987
+2021-11-15,445,Ronald White,Oludare,Smartwatch,4,200
+2020-02-12,500,Christina Mcintosh,Mbali,Smart Home Hub,2,200
+2022-12-17,754,Philip Fritz,Andiswa,Fitness Tracker,2,430
+2023-12-11,796,Regina Perkins,Mbali,VR Headset,5,500
+2019-12-07,688,Amanda Smith,Mbali,External Hard Drive,3,120
+2023-01-28,329,Marie Scott,Zolile,Drone,1,1300
+2023-04-10,174,Charles Ramos,Zolile,Drone,4,1300
+2022-11-29,452,Jessica Miller,Buhari,Fitness Tracker,2,430
+2020-09-08,160,Bobby Knight,Segun,Desktop Computer,1,1200
+2020-04-23,636,Tiffany Cain,Oludare,Wireless Earbuds,1,200
+2019-05-01,824,Andrew Harris,Segun,Wireless Earbuds,4,200
+2019-05-05,340,Jennifer Martin,Edmund,Bluetooth Keyboard,2,100
+2020-04-24,536,William Fuller,James,Bluetooth Keyboard,4,100
+2021-01-17,145,Tracey Alexander,Buhari,E-reader,5,120
+2019-12-24,540,Lisa Welch,Buhari,Gaming Console,2,987
+2022-03-04,206,Melissa Pitts,James,Smartphone,4,760
+2019-03-09,9,Traci Conner,Segun,E-reader,3,120
+2020-10-25,935,Gregg Martinez,Zolile,Desktop Computer,1,1200
+2022-11-11,905,Danny Morgan,Mbali,Fitness Tracker,4,430
+2022-01-27,727,Timothy Hampton,Segun,VR Headset,4,500
+2019-08-15,545,Joshua Jackson,Segun,Headphones,2,50
+2019-06-17,469,Anthony Medina,Andiswa,Laptop,1,1000
+2022-06-20,543,Johnny Lewis,James,VR Headset,4,500
+2020-09-13,161,Veronica Serrano,Buhari,Portable Speaker,3,230
+2021-01-03,310,Lisa Smith,Edmund,Robot Vacuum Cleaner,3,250
+2019-07-05,641,Elizabeth Schroeder,James,E-reader,1,120
+2022-05-03,972,Melanie French,James,Fitness Tracker,2,430
+2023-05-08,403,Sandra Combs,Oludare,Tablet,4,900
+2020-10-20,695,Michael Palmer,Edmund,External Hard Drive,2,120
+2019-12-06,437,Kendra Smith,James,Drone,3,1300
+2020-08-10,135,Rebecca Kennedy,Edmund,Smartwatch,5,200
+2019-09-26,820,Julia Rosales,Edmund,Smartwatch,3,200
+2020-06-09,921,Shannon Carpenter,Andiswa,Smartwatch,4,200
+2024-01-21,1000,Kimberly Young,Oludare,Smart Home Hub,2,200
+2020-06-17,571,Roy Gray,Andiswa,Desktop Computer,2,1200
+2020-12-19,901,Joseph Gillespie,Oludare,Laptop,3,1000
+2020-08-12,424,Brandon Serrano,Mbali,Wireless Earbuds,4,200
+2023-09-21,842,Cassidy Beltran,James,Smartwatch,2,200
+2020-02-17,190,Anita Gutierrez,Buhari,Drone,5,1300
+2021-08-02,581,April Benson,Edmund,Drone,2,1300
+2022-02-11,27,Mark Ferguson,Zolile,Tablet,4,900
+2021-05-04,867,Shannon Cruz,Nolo,Portable Speaker,2,230
+2019-12-23,504,Nicole Oconnell,Nolo,Smartwatch,2,200
+2019-06-26,34,Levi Perry,Mbali,Laptop,3,1000
+2022-02-25,228,Kelsey Flowers,Edmund,Digital Camera,1,780
+2022-08-19,978,Darlene Robinson,Nolo,Drone,4,1300
+2020-11-17,888,Nathan Williams,Nolo,Fitness Tracker,4,430
+2022-11-19,43,Haley Morrison,Mbali,VR Headset,4,500
+2023-03-19,761,Amber Kennedy,Andiswa,Robot Vacuum Cleaner,1,250
+2020-06-10,463,Kristina Mcclure,Nolo,Smartphone,2,760
+2023-10-22,406,Jaime Hernandez,Buhari,Bluetooth Keyboard,4,100
+2021-05-12,646,Rebecca Downs,Buhari,Digital Camera,3,780
+2022-10-07,906,Michael Meyer,James,Wireless Earbuds,4,200
+2020-12-06,302,Kimberly Torres,Buhari,Robot Vacuum Cleaner,2,250
+2022-08-13,662,Alexandra Lindsey,Nolo,Tablet,5,900
+2019-03-27,798,Rachel Drake,Andiswa,Smartwatch,4,200
+2021-08-15,462,Michael Frost,Buhari,Headphones,4,50
+2019-05-21,730,Connor Dixon,Edmund,Smart TV,1,700
+2022-04-03,709,James Reynolds,Oludare,Desktop Computer,1,1200
+2022-09-16,461,Anthony Duncan,Zolile,Tablet,5,900
+2019-11-13,745,Heidi Lopez,Andiswa,Drone,2,1300
+2023-04-26,390,Amanda Solis,Buhari,Headphones,3,50
+2022-12-01,676,Karen Dunn,Oludare,Headphones,2,50
+2020-11-30,730,Connor Dixon,Buhari,External Hard Drive,3,120
+2019-05-21,788,Robert Johnson,Nolo,Wireless Earbuds,2,200
+2023-03-03,135,Rebecca Kennedy,Edmund,Laptop,5,1000
+2022-04-10,13,Cameron Johnson,Nolo,Printer,4,300
+2021-01-17,6,Eric Martinez,Nolo,Fitness Tracker,2,430
+2021-10-07,488,Joel Nunez,Nolo,External Hard Drive,4,120
+2019-02-02,615,Michael Jenkins,Buhari,Fitness Tracker,5,430
+2022-02-07,644,Hunter Gutierrez,Andiswa,Digital Camera,1,780
+2022-03-09,57,Sandra Johnson,Zolile,Smartphone,2,760
+2021-03-12,684,Ashley Franco,James,VR Headset,1,500
+2021-02-15,427,Ronald Sanchez,Oludare,Headphones,3,50
+2019-04-15,709,James Reynolds,Andiswa,Headphones,4,50
+2020-11-12,369,Caleb Lee,Buhari,Tablet,3,900
+2021-06-14,920,Jacob Williams,Mbali,Tablet,4,900
+2022-12-26,67,Wanda Stein,James,Printer,2,300
+2019-04-11,881,David Strong,James,VR Headset,5,500
+2021-12-09,215,Charles Castaneda,Edmund,Drone,1,1300
+2022-07-15,748,Michael Harris,Andiswa,Tablet,4,900
+2022-11-21,620,April Jordan,James,External Hard Drive,5,120
+2020-01-16,266,Mark Miller,Andiswa,Smart Home Hub,5,200
+2021-01-27,133,Julia Ward,Nolo,Robot Vacuum Cleaner,4,250
+2022-09-12,185,Michael Ochoa,Edmund,Wireless Earbuds,2,200
+2022-03-17,25,Jennifer Smith,Nolo,Desktop Computer,2,1200
+2022-10-16,425,Roger Henry,Mbali,Smartphone,3,760
+2019-05-04,826,John Lester,Edmund,Laptop,2,1000
+2022-10-19,261,William Chan,Segun,Wireless Earbuds,3,200
+2023-12-18,332,Courtney Chaney,Buhari,Desktop Computer,3,1200
+2023-12-18,742,Jake Buchanan,Buhari,Headphones,2,50
+2022-12-09,347,Vickie Wong,Nolo,Printer,1,300
+2023-12-18,494,Matthew Foster,Oludare,Smart TV,5,700
+2019-06-14,474,John Ford,Mbali,Smartphone,5,760
+2024-01-05,743,Bill Rivas,Zolile,Bluetooth Keyboard,5,100
+2020-04-21,592,Leon Russell,Zolile,Portable Speaker,1,230
+2020-10-29,288,Todd Smith,Buhari,VR Headset,4,500
+2020-03-16,863,Yesenia Morris,Oludare,Smart Home Hub,5,200
+2019-07-18,610,Meagan Schwartz,Segun,Wireless Earbuds,3,200
+2019-05-05,279,Jasmin Johnson,Mbali,Tablet,4,900
+2022-11-06,381,Michael Jackson,Nolo,Wireless Earbuds,2,200
+2020-03-24,180,Daniel Hernandez,Segun,Portable Speaker,1,230
+2021-04-27,936,Mark Bridges,Segun,Smart TV,5,700
+2022-09-01,495,Justin Stephens,Andiswa,Smartwatch,2,200
+2021-07-17,496,Lindsey Foster,Andiswa,Wireless Earbuds,3,200
+2021-01-03,893,Emily Newton,Segun,Robot Vacuum Cleaner,2,250
+2021-12-07,38,Randall Duarte,Nolo,E-reader,5,120
+2019-10-16,319,Phillip Juarez,Buhari,Drone,1,1300
+2023-10-01,911,Stephanie Villarreal,Buhari,Desktop Computer,5,1200
+2021-06-06,764,Robert Contreras,James,Laptop,5,1000
+2021-09-29,655,Scott Perez,Edmund,VR Headset,2,500
+2022-10-23,284,Mr. Joshua Fritz,Andiswa,VR Headset,4,500
+2022-07-12,280,David Mitchell,Oludare,Headphones,3,50
+2022-01-12,982,Ryan Jacobson,Andiswa,Robot Vacuum Cleaner,1,250
+2023-02-11,359,Margaret Wells,Andiswa,VR Headset,3,500
+2022-05-23,722,Darrell Kirby,James,Smart Home Hub,2,200
+2023-10-30,319,Phillip Juarez,Zolile,Bluetooth Keyboard,4,100
+2022-12-28,30,Andrew Vargas,Nolo,Smartphone,1,760
+2023-03-12,89,Kevin Schwartz,Mbali,E-reader,2,120
+2021-11-30,913,Dr. Jennifer Garcia,Nolo,Drone,3,1300
+2021-08-02,838,Douglas Robinson,Edmund,Bluetooth Keyboard,1,100
+2020-10-31,774,Johnathan Pope,Nolo,Smart Home Hub,2,200
+2024-01-27,822,Holly Arellano,Nolo,Desktop Computer,4,1200
+2021-09-18,660,Tyler Hendricks,Nolo,Printer,2,300
+2021-12-18,148,Christopher Jones,James,Portable Speaker,4,230
+2023-02-02,940,Joshua Davis,Zolile,VR Headset,4,500
+2020-09-25,67,Wanda Stein,Nolo,Desktop Computer,3,1200
+2023-07-17,867,Shannon Cruz,Oludare,Wireless Earbuds,3,200
+2019-12-13,131,Bonnie Taylor,Andiswa,Desktop Computer,4,1200
+2021-09-03,816,Kimberly Vance,Segun,VR Headset,5,500
+2019-11-16,812,David Castillo,James,Bluetooth Keyboard,4,100
+2020-04-05,424,Brandon Serrano,Edmund,Drone,2,1300
+2021-05-25,998,Tina James,Nolo,E-reader,1,120
+2022-12-08,834,Cynthia Goodwin,Mbali,External Hard Drive,5,120
+2020-10-30,558,Dana Smith,Edmund,Headphones,1,50
+2020-07-06,729,Aimee Summers,Nolo,Desktop Computer,5,1200
+2019-09-02,334,Jennifer Hunter,Andiswa,Desktop Computer,4,1200
+2022-03-16,979,Dean Little,Mbali,Tablet,5,900
+2019-07-26,834,Cynthia Goodwin,Mbali,VR Headset,4,500
+2020-02-27,63,Michael Fox,Segun,Digital Camera,2,780
+2021-01-05,925,Laura Smith,Buhari,Smartwatch,2,200
+2022-08-20,299,Megan Drake,Mbali,Drone,5,1300
+2019-08-14,211,Becky Brown,Zolile,Wireless Earbuds,5,200
+2021-11-25,696,Andrew Castillo,James,External Hard Drive,3,120
+2020-07-13,597,Leslie Brock,Buhari,Drone,5,1300
+2020-02-17,131,Bonnie Taylor,James,Smartphone,3,760
+2023-11-01,992,Melinda Adams,Buhari,Laptop,5,1000
+2023-08-14,368,Rachel Melton,Segun,Wireless Earbuds,1,200
+2023-08-05,720,Jennifer Davis,Mbali,VR Headset,4,500
+2020-08-27,446,Veronica Andrews,Andiswa,Digital Camera,2,780
+2023-07-27,193,Emily Morgan,Andiswa,E-reader,3,120
+2022-11-19,158,Kayla Lin,James,Smartwatch,2,200
+2022-03-31,664,Jonathan Williams,Buhari,Smartwatch,4,200
+2021-10-22,999,Nancy Griffin,Oludare,Tablet,2,900
+2023-10-03,426,Ryan Herrera,Nolo,Drone,4,1300
+2023-03-03,466,Lauren Allen,Andiswa,External Hard Drive,5,120
+2022-04-01,394,Brian Taylor,Zolile,Fitness Tracker,2,430
+2020-10-22,8,Larry Barnett III,Nolo,Fitness Tracker,5,430
+2023-05-03,949,Heather Mitchell,Andiswa,Smart Home Hub,3,200
+2022-09-29,39,Stephen Jones,Nolo,Portable Speaker,1,230
+2021-06-09,985,Amanda Gray,Segun,Smartwatch,5,200
+2023-04-27,769,Christian Powers,James,Smart TV,5,700
+2021-05-18,912,Gregory Villarreal,Segun,Fitness Tracker,4,430
+2022-07-03,680,Pamela Greene MD,Segun,Bluetooth Keyboard,5,100
+2022-07-07,55,Andrew Deleon,Zolile,Bluetooth Keyboard,1,100
+2020-01-14,525,Mr. Jason Roberts PhD,Nolo,Smart Home Hub,3,200
+2019-07-02,984,Hayley Nguyen,James,Wireless Earbuds,2,200
+2019-04-02,946,Marcus Brown,James,Smart Home Hub,3,200
+2019-02-11,485,Cynthia Fisher,Oludare,Smart Home Hub,1,200
+2021-07-13,299,Megan Drake,Buhari,Wireless Earbuds,4,200
+2019-08-21,518,James Smith MD,Segun,Gaming Console,3,987
+2023-04-03,288,Todd Smith,James,Gaming Console,1,987
+2021-06-06,619,Phillip Torres,Oludare,Smart Home Hub,2,200
+2021-05-12,379,Janice Harris,Oludare,Gaming Console,2,987
+2021-04-17,819,Mary Gomez,Andiswa,Smartphone,3,760
+2019-12-28,991,Mandy Reynolds,Oludare,Drone,2,1300
+2023-03-18,771,Scott Wagner,Mbali,E-reader,2,120
+2020-05-22,744,Justin Mcguire,Oludare,Digital Camera,5,780
+2022-03-19,354,Mr. Adam Campbell,Buhari,Gaming Console,1,987
+2023-09-09,476,Stephanie Schwartz,Mbali,Printer,3,300
+2019-03-21,972,Melanie French,Andiswa,Fitness Tracker,4,430
+2022-08-28,400,Steven Patel,Nolo,Gaming Console,2,987
+2020-01-28,446,Veronica Andrews,Buhari,Wireless Earbuds,4,200
+2023-11-07,324,Samantha Davis,Andiswa,Smartphone,1,760
+2019-02-25,653,Sheila Martinez,Zolile,External Hard Drive,5,120
+2021-09-22,879,Lindsey Glenn,James,VR Headset,3,500
+2020-07-04,101,Mrs. Lauren Martin,James,Smart Home Hub,4,200
+2023-11-18,692,Madeline Moore,Edmund,Smart Home Hub,2,200
+2020-10-10,694,Adam Clark,Oludare,VR Headset,5,500
+2022-01-02,9,Traci Conner,Segun,Laptop,4,1000
+2022-05-07,107,Heidi Coleman,Nolo,Portable Speaker,2,230
+2019-09-13,258,Michael Bruce,Edmund,Smartphone,1,760
+2019-09-01,59,Nicholas Andrade,Edmund,Drone,1,1300
+2021-10-01,123,David Richards,Segun,Drone,2,1300
+2020-12-15,783,David Bennett,Oludare,Desktop Computer,2,1200
+2021-01-30,479,Michelle Salinas,Segun,Smart TV,3,700
+2022-10-21,709,James Reynolds,Zolile,Gaming Console,2,987
+2022-08-31,284,Mr. Joshua Fritz,Buhari,E-reader,4,120
+2020-11-11,62,Michael Johnson,James,Gaming Console,2,987
+2019-08-10,504,Nicole Oconnell,Edmund,Drone,4,1300
+2021-02-04,504,Nicole Oconnell,Segun,Smartwatch,5,200
+2019-04-12,224,Kara Berry,Segun,Smart TV,3,700
+2023-01-21,75,Thomas Cook,Segun,Smart Home Hub,3,200
+2020-08-25,20,Jason Alvarez,Nolo,Smartwatch,1,200
+2023-11-28,681,Brett Jackson,Mbali,Gaming Console,2,987
+2019-08-06,927,Lori Cunningham,Mbali,Smart Home Hub,1,200
+2021-09-04,963,Mary Moore,Nolo,Printer,4,300
+2022-10-12,746,Teresa Williams DVM,Segun,Bluetooth Keyboard,2,100
+2019-12-03,978,Darlene Robinson,Nolo,Desktop Computer,5,1200
+2020-02-04,368,Rachel Melton,Zolile,Wireless Earbuds,4,200
+2021-03-06,982,Ryan Jacobson,Segun,Portable Speaker,5,230
+2022-11-19,349,Caitlyn Jacobs,Segun,Smart TV,3,700
+2021-04-21,181,Michael Hansen,Andiswa,Smartphone,4,760
+2020-03-01,307,Cassandra Jordan,Mbali,Desktop Computer,3,1200
+2022-05-22,907,Monica Kline,Nolo,Digital Camera,2,780
+2022-07-08,26,Debra James,Edmund,Printer,4,300
+2023-01-10,554,Julie Mueller,James,Printer,5,300
+2022-10-24,832,William Best,Nolo,Laptop,1,1000
+2023-07-17,346,Tina Thompson,Buhari,E-reader,1,120
+2021-09-07,670,Lori Richardson,Andiswa,Smart TV,5,700
+2019-04-11,594,Dr. Justin Robbins,Edmund,Tablet,1,900
+2019-09-05,501,Bruce Nelson,Buhari,Printer,5,300
+2022-01-12,719,Johnny Bauer,Oludare,Laptop,2,1000
+2023-10-31,927,Lori Cunningham,James,Desktop Computer,4,1200
+2019-04-16,856,Brandi Kramer,Segun,Desktop Computer,1,1200
+2019-04-14,819,Mary Gomez,Edmund,Tablet,2,900
+2021-12-08,831,Laura Reyes,Mbali,VR Headset,1,500
+2023-08-16,590,Mr. Brandon Johnson,Andiswa,Smartwatch,3,200
+2021-09-08,813,Lisa Roberts,Edmund,Smartphone,5,760
+2022-03-14,65,David Simmons,Segun,Gaming Console,2,987
+2023-06-24,173,Cole Nelson,Zolile,Bluetooth Keyboard,2,100
+2020-06-20,948,Sheila Lane,Buhari,Smartwatch,1,200
+2020-06-23,648,Cynthia Montes,Mbali,Headphones,1,50
+2023-10-10,83,Dawn Hayes MD,Buhari,Laptop,2,1000
+2023-02-07,724,Dana Graham,James,External Hard Drive,4,120
+2021-03-06,212,Jose Wilkinson,Oludare,Gaming Console,5,987
+2019-12-19,245,Briana Brown,Oludare,Drone,1,1300
+2022-03-10,735,Alice Jackson,Nolo,Drone,1,1300
+2021-04-17,802,Dr. Tiffany Sutton,James,Portable Speaker,4,230
+2019-08-18,242,Erin Benson,Edmund,Desktop Computer,5,1200
+2023-02-17,634,Ralph Ferguson,Zolile,Bluetooth Keyboard,5,100
+2020-04-08,789,Veronica Roman,Edmund,Gaming Console,1,987
+2023-07-25,816,Kimberly Vance,Oludare,Printer,4,300
+2022-04-18,687,Christina Herrera,Buhari,Smartphone,3,760
+2019-02-04,446,Veronica Andrews,James,VR Headset,5,500
+2022-02-08,777,John Deleon,Nolo,Smartphone,1,760
+2023-02-11,948,Sheila Lane,Andiswa,Headphones,2,50
+2023-01-25,497,David Brown,Andiswa,Desktop Computer,1,1200
+2021-06-12,739,Destiny James,Nolo,Smart Home Hub,5,200
+2022-07-06,204,Benjamin Lee,Zolile,Fitness Tracker,1,430
+2021-06-22,101,Mrs. Lauren Martin,Edmund,External Hard Drive,2,120
+2023-08-19,226,Christopher Gregory,Segun,Printer,5,300
+2021-08-31,912,Gregory Villarreal,Mbali,Smartwatch,2,200
+2022-04-14,466,Lauren Allen,Oludare,E-reader,3,120
+2022-06-17,738,Dr. Rebecca Spencer,Edmund,Portable Speaker,3,230
+2019-06-21,131,Bonnie Taylor,Buhari,Smart Home Hub,1,200
+2023-07-05,114,Amanda Zhang,Nolo,Smart TV,4,700
+2021-02-26,352,Anthony Davidson,Edmund,Wireless Earbuds,5,200
+2020-01-29,814,Kristen Aguilar,Oludare,Smart Home Hub,5,200
+2023-04-05,89,Kevin Schwartz,Mbali,Robot Vacuum Cleaner,4,250
+2022-09-16,222,Matthew Novak,Nolo,Smart TV,3,700
+2023-03-29,439,Keith Bauer,Edmund,Fitness Tracker,3,430
+2021-10-13,228,Kelsey Flowers,Oludare,Smart Home Hub,1,200
+2022-08-28,46,Angela Lewis,Buhari,Printer,5,300
+2023-11-21,544,Andre Jones,Mbali,Printer,1,300
+2022-02-06,247,Jason Gates,Segun,Bluetooth Keyboard,1,100
+2020-01-19,417,Justin Brown,Edmund,Smartwatch,3,200
+2020-10-30,664,Jonathan Williams,Segun,Laptop,4,1000
+2021-11-30,166,Ashley Davis,Nolo,Smart Home Hub,5,200
+2023-12-31,466,Lauren Allen,Nolo,Smartwatch,4,200
+2021-04-30,893,Emily Newton,Zolile,Smart TV,1,700
+2022-09-24,73,Ronald Morgan,Mbali,VR Headset,5,500
+2020-03-22,437,Kendra Smith,James,Drone,5,1300
+2020-12-10,213,Matthew Mann,Segun,Drone,3,1300
+2022-07-02,57,Sandra Johnson,Andiswa,Portable Speaker,1,230
+2019-02-09,375,Daniel Proctor,Nolo,Drone,1,1300
+2023-05-19,180,Daniel Hernandez,Andiswa,Tablet,5,900
+2021-10-24,210,Cheryl Bullock,Oludare,VR Headset,2,500
+2021-06-19,665,Nancy Garcia,Nolo,Smart Home Hub,2,200
+2021-08-10,780,Stephen Rogers,Edmund,VR Headset,3,500
+2022-03-02,516,Vincent Moore,Mbali,Gaming Console,1,987
+2019-02-10,354,Mr. Adam Campbell,Nolo,Printer,5,300
+2023-02-21,126,Kiara Watson,Nolo,Bluetooth Keyboard,5,100
+2019-02-07,463,Kristina Mcclure,Zolile,Tablet,2,900
+2021-01-24,469,Anthony Medina,Segun,Tablet,4,900
+2022-01-05,296,Rachel Perez,Segun,Desktop Computer,2,1200
+2023-07-21,714,Rachel Smith,Oludare,Printer,2,300
+2022-10-17,534,Nicole Lane,Buhari,Wireless Earbuds,4,200
+2019-04-24,555,Chase Aguirre,Oludare,Printer,3,300
+2022-12-02,756,Donald Glover,Buhari,Wireless Earbuds,2,200
+2019-08-28,893,Emily Newton,Edmund,Robot Vacuum Cleaner,3,250
+2019-11-20,352,Anthony Davidson,Zolile,Printer,5,300
+2020-06-25,543,Johnny Lewis,Andiswa,Smart TV,4,700
+2023-11-08,136,Karen Chen,James,Headphones,3,50
+2020-04-14,381,Michael Jackson,James,Smartphone,2,760
+2020-12-13,467,Scott Delacruz,Oludare,Drone,2,1300
+2023-03-04,293,Dr. Tammie Roberts,Oludare,Headphones,2,50
+2022-02-03,120,Marcus Davis,Buhari,VR Headset,5,500
+2021-08-29,267,Mark Davis,Zolile,Headphones,2,50
+2021-02-21,36,Gabriela Ford,Zolile,Portable Speaker,2,230
+2023-10-03,553,Benjamin Hill,Oludare,Bluetooth Keyboard,3,100
+2022-02-13,26,Debra James,Mbali,Printer,2,300
+2023-05-06,951,Gina Burns,Zolile,Smartwatch,1,200
+2020-11-07,560,Brad Jackson,Andiswa,VR Headset,3,500
+2022-12-06,297,Micheal Morgan,Oludare,Smart Home Hub,4,200
+2020-11-16,116,Pamela Madden,Nolo,Smartphone,2,760
+2020-08-09,120,Marcus Davis,James,Laptop,4,1000
+2021-10-03,226,Christopher Gregory,Nolo,Portable Speaker,1,230
+2023-05-22,623,Jeff Snyder,Edmund,Smart Home Hub,5,200
+2023-01-28,959,Scott Woods,James,Digital Camera,1,780
+2023-05-04,870,Ronnie Webb DVM,Nolo,Tablet,5,900
+2020-06-19,503,Mrs. Emily Bennett,Zolile,Drone,5,1300
+2022-09-08,58,John Fisher,Zolile,E-reader,2,120
+2023-04-04,438,Mr. James Benton,Zolile,E-reader,3,120
+2020-04-28,354,Mr. Adam Campbell,Zolile,Wireless Earbuds,4,200
+2021-06-19,90,Kathleen Tucker,Edmund,Smart TV,4,700
+2023-12-13,296,Rachel Perez,Oludare,External Hard Drive,4,120
+2021-07-30,602,Ralph Ross,Segun,Smartwatch,2,200
+2023-02-27,889,Joseph Davis,Andiswa,VR Headset,1,500
+2022-04-24,605,Angela Hays,Mbali,Tablet,1,900
+2022-02-26,937,Nicholas Weiss,James,External Hard Drive,2,120
+2019-10-21,728,Tiffany Grant,Oludare,Digital Camera,2,780
+2023-02-04,297,Micheal Morgan,Andiswa,Printer,1,300
+2020-08-20,310,Lisa Smith,James,Printer,5,300
+2023-09-18,230,Tabitha Ortiz,Buhari,Laptop,2,1000
+2024-01-25,979,Dean Little,Nolo,Desktop Computer,3,1200
+2021-12-14,504,Nicole Oconnell,Edmund,Laptop,1,1000
+2023-11-25,505,Christopher Lee,Segun,Drone,3,1300
+2022-12-04,580,Jacob Smith,Mbali,Gaming Console,4,987
+2023-08-24,838,Douglas Robinson,Segun,Portable Speaker,5,230
+2021-05-06,18,Megan Harris,James,Headphones,5,50
+2023-09-21,328,Andrew Terrell,Nolo,Smartwatch,3,200
+2023-10-13,280,David Mitchell,Zolile,External Hard Drive,3,120
+2019-06-16,299,Megan Drake,Andiswa,Tablet,5,900
+2019-08-25,644,Hunter Gutierrez,Oludare,Desktop Computer,5,1200
+2022-09-03,557,Tracy Adams,Zolile,VR Headset,3,500
+2021-09-05,715,Sarah Bates,Zolile,Desktop Computer,5,1200
+2020-02-09,844,Laura Lamb,Oludare,Laptop,2,1000
+2019-08-12,382,Susan Rocha,Nolo,External Hard Drive,3,120
+2019-03-26,167,Anthony Johnson,Segun,Digital Camera,2,780
+2020-11-23,852,Jennifer Patton,Edmund,Bluetooth Keyboard,5,100
+2022-02-01,976,Connie Wiley,Andiswa,Bluetooth Keyboard,5,100
+2022-06-16,822,Holly Arellano,Segun,External Hard Drive,4,120
+2020-03-26,120,Marcus Davis,Oludare,Laptop,4,1000
+2019-03-21,708,Kayla Clark,Zolile,Smartwatch,4,200
+2020-04-15,612,Jacqueline Hamilton,Andiswa,VR Headset,2,500
+2020-07-19,30,Andrew Vargas,Segun,Fitness Tracker,2,430
+2020-04-15,146,Mark Martin,Edmund,Wireless Earbuds,2,200
+2019-04-08,81,Jenna Fox,Mbali,Desktop Computer,1,1200
+2022-07-12,496,Lindsey Foster,Mbali,Smartphone,2,760
+2020-02-16,813,Lisa Roberts,Andiswa,Smart Home Hub,1,200
+2020-03-14,931,Matthew Foley,James,Smartphone,1,760
+2023-04-26,11,Nicholas Morgan,Segun,Desktop Computer,5,1200
+2019-11-14,923,Gregory Smith,Edmund,Headphones,3,50
+2022-02-23,150,Christina Fisher,James,Smart Home Hub,3,200
+2022-03-28,876,Dawn Sullivan,Andiswa,Drone,2,1300
+2019-02-23,70,Erik Adkins,Segun,Smart Home Hub,1,200
+2019-04-01,733,Judy Lee,Edmund,Wireless Earbuds,2,200
+2022-12-16,551,Michael Young,Buhari,Desktop Computer,2,1200
+2022-01-20,872,Jessica Burns,Nolo,Portable Speaker,5,230
+2022-03-01,690,Joshua Mccarthy,Segun,Headphones,3,50
+2019-09-03,435,Megan Wise,Edmund,Robot Vacuum Cleaner,2,250
+2023-01-17,780,Stephen Rogers,Zolile,Desktop Computer,4,1200
+2023-08-28,140,Richard Lester,Nolo,Portable Speaker,3,230
+2019-02-06,42,Holly Hall,Segun,VR Headset,4,500
+2019-11-16,291,Jennifer Tucker,Nolo,Drone,3,1300
+2023-03-08,862,Todd Villanueva,Nolo,Fitness Tracker,5,430
+2020-08-07,876,Dawn Sullivan,Mbali,Digital Camera,1,780
+2019-07-29,822,Holly Arellano,Nolo,Portable Speaker,2,230
+2021-05-27,691,William Smith,Nolo,Desktop Computer,4,1200
+2019-10-31,675,Alyssa Burns,Segun,Desktop Computer,2,1200
+2021-09-24,712,Kristen Walker,Segun,Headphones,1,50
+2021-06-30,204,Benjamin Lee,Zolile,Digital Camera,5,780
+2022-04-26,414,Zachary Brown,Segun,Fitness Tracker,4,430
+2021-02-27,286,Shawn Arellano,James,E-reader,3,120
+2021-05-11,618,Sarah Ellison,Mbali,Printer,5,300
+2021-12-29,787,Justin Johnson,Nolo,Desktop Computer,1,1200
+2020-12-13,510,Laura Moore,Edmund,Smartwatch,1,200
+2021-12-26,55,Andrew Deleon,Segun,Printer,1,300
+2022-04-07,392,Nicholas Sanchez,Zolile,Smartwatch,3,200
+2023-01-28,99,Matthew Zavala,Segun,Robot Vacuum Cleaner,4,250
+2020-02-21,207,Dawn Navarro,James,Printer,4,300
+2020-04-02,556,Kristen Matthews,Zolile,Bluetooth Keyboard,5,100
+2020-01-26,783,David Bennett,Buhari,External Hard Drive,1,120
+2020-04-30,323,Alexander Morse,Mbali,Smart TV,4,700
+2019-02-23,182,Ashley Roberts,Andiswa,Wireless Earbuds,2,200
+2023-04-09,138,Dawn Brock,James,E-reader,4,120
+2023-03-24,583,Michael Cooke,Nolo,Bluetooth Keyboard,5,100
+2023-12-10,488,Joel Nunez,Andiswa,Headphones,5,50
+2020-01-29,270,Toni Riddle,Nolo,Smart Home Hub,4,200
+2022-06-23,362,Shannon Mitchell,James,VR Headset,1,500
+2021-03-27,47,Dr. Wendy Garcia DVM,Oludare,Portable Speaker,3,230
+2021-01-14,598,Emma Smith,Buhari,VR Headset,4,500
+2023-11-14,354,Mr. Adam Campbell,Zolile,External Hard Drive,3,120
+2023-01-28,251,Scott Walker,Edmund,Fitness Tracker,3,430
+2022-01-16,933,Michelle Miller,Segun,Wireless Earbuds,1,200
+2023-01-23,21,Jim Burns,Andiswa,VR Headset,1,500
+2022-09-11,885,Gene Perez,Mbali,Smart Home Hub,5,200
+2021-10-17,274,Daniel Peterson,Buhari,Printer,5,300
+2023-12-14,325,David Hawkins,Mbali,Smart Home Hub,4,200
+2021-10-24,101,Mrs. Lauren Martin,Nolo,Desktop Computer,2,1200
+2023-12-27,515,Joseph Thornton,Zolile,Headphones,5,50
+2021-12-29,993,Rebecca Fitzpatrick,Mbali,Digital Camera,4,780
+2020-06-17,998,Tina James,Segun,Bluetooth Keyboard,2,100
+2020-12-06,49,Christopher Hanson,James,Smart Home Hub,4,200
+2020-05-17,640,Andrea Chavez,Segun,Smart Home Hub,1,200
+2021-11-07,280,David Mitchell,Segun,Smart Home Hub,5,200
+2022-03-01,215,Charles Castaneda,Zolile,Tablet,3,900
+2022-09-04,308,Laurie Camacho,Mbali,Bluetooth Keyboard,3,100
+2020-02-12,412,Cynthia Cooper,James,Drone,5,1300
+2023-11-20,782,Scott Mccoy,Andiswa,Headphones,1,50
+2022-02-10,529,Veronica Cervantes,Oludare,Smart Home Hub,4,200
+2023-03-01,986,Luis Chan,Nolo,Gaming Console,5,987
+2020-06-23,874,Manuel Mitchell,Mbali,Smart Home Hub,1,200
+2019-05-20,374,Robert Bishop,Nolo,Smartwatch,2,200
+2019-04-20,702,John Austin,James,External Hard Drive,4,120
+2023-02-25,851,Dale Arnold,Segun,Digital Camera,4,780
+2021-06-23,294,Rebecca Mcintyre,Oludare,Gaming Console,5,987
+2020-07-24,245,Briana Brown,Segun,Smartwatch,2,200
+2023-06-23,817,Paul Wolfe,James,Smart TV,4,700
+2021-06-04,447,Jeffrey Andrews,Mbali,Smartphone,2,760
+2019-08-29,140,Richard Lester,Buhari,Gaming Console,3,987
+2024-01-07,181,Michael Hansen,Buhari,Printer,1,300
+2023-06-05,919,Courtney Hill,Segun,VR Headset,5,500
+2020-09-03,66,Selena Ayala MD,Mbali,Portable Speaker,1,230
+2023-11-28,860,Jonathan Barrett,Oludare,Fitness Tracker,1,430
+2022-12-06,513,April Jennings,Segun,Robot Vacuum Cleaner,5,250
+2021-10-09,954,Shelley Wright,Andiswa,Gaming Console,4,987
+2020-04-18,244,William Potts,Segun,VR Headset,3,500
+2019-11-29,755,Mr. Ryan Clark,Mbali,Fitness Tracker,4,430
+2021-11-25,110,Theresa Richard,Oludare,Digital Camera,3,780
+2023-03-19,261,William Chan,Buhari,Printer,5,300
+2021-09-13,972,Melanie French,Segun,VR Headset,5,500
+2023-03-22,700,Dr. Matthew Powell DDS,Edmund,Gaming Console,2,987
+2020-12-28,733,Judy Lee,Zolile,Wireless Earbuds,1,200
+2021-02-09,927,Lori Cunningham,Buhari,Smartphone,2,760
+2020-09-30,394,Brian Taylor,James,Portable Speaker,1,230
+2020-03-04,243,James Moore,Nolo,E-reader,1,120
+2022-10-28,403,Sandra Combs,James,Wireless Earbuds,1,200
+2020-12-10,775,Mary Grimes,Edmund,Wireless Earbuds,2,200
+2022-06-03,165,Stephanie Pruitt,Nolo,VR Headset,4,500
+2022-09-28,281,Kim Randall,Segun,Printer,4,300
+2022-08-14,949,Heather Mitchell,Zolile,External Hard Drive,1,120
+2021-11-25,716,Alexis Torres,James,Robot Vacuum Cleaner,1,250
+2021-07-17,617,Jeffrey Rogers,Andiswa,VR Headset,4,500
+2019-08-20,781,Kirsten Taylor,Buhari,Headphones,4,50
+2021-06-29,140,Richard Lester,Buhari,E-reader,2,120
+2023-05-30,322,Penny Murphy,Segun,Desktop Computer,2,1200
+2021-01-30,731,Natalie Weaver,Oludare,Drone,4,1300
+2022-12-22,328,Andrew Terrell,Nolo,Printer,2,300
+2019-03-20,704,Justin Hines,Zolile,Wireless Earbuds,2,200
+2021-07-25,377,Kevin Howard,Oludare,E-reader,4,120
+2023-12-29,906,Michael Meyer,Edmund,Laptop,1,1000
+2020-11-27,663,Calvin Smith,Edmund,Tablet,4,900
+2021-08-24,719,Johnny Bauer,Oludare,Smartphone,4,760
+2021-05-12,615,Michael Jenkins,James,Smartwatch,1,200
+2019-03-23,175,Lisa Murphy,Segun,Laptop,5,1000
+2023-02-13,943,Jacqueline Douglas,Nolo,Printer,1,300
+2020-03-18,209,Sandra Yates,Edmund,Gaming Console,3,987
+2023-12-12,392,Nicholas Sanchez,Oludare,External Hard Drive,2,120
+2019-02-09,844,Laura Lamb,James,Digital Camera,4,780
+2022-01-04,812,David Castillo,Oludare,Laptop,3,1000
+2021-09-29,242,Erin Benson,Nolo,Fitness Tracker,3,430
+2019-05-20,663,Calvin Smith,Nolo,Tablet,1,900
+2022-07-14,893,Emily Newton,Zolile,E-reader,2,120
+2022-05-25,726,Robert Snyder,Mbali,Drone,3,1300
+2021-03-02,571,Roy Gray,Buhari,Smartphone,3,760
+2022-11-17,483,Sandra Sullivan,Zolile,Drone,5,1300
+2019-04-02,830,Danielle Green,Buhari,Laptop,3,1000
+2020-04-23,391,Samantha Mendez,James,E-reader,3,120
+2021-07-28,914,Richard Jackson,Andiswa,Smartphone,5,760
+2023-04-13,174,Charles Ramos,Andiswa,Printer,3,300
+2021-12-06,136,Karen Chen,Segun,VR Headset,5,500
+2023-06-08,267,Mark Davis,Segun,VR Headset,1,500
+2021-05-26,512,Felicia Coleman,James,Portable Speaker,4,230
+2022-07-21,898,Nathan Sparks,James,Drone,3,1300
+2022-10-07,447,Jeffrey Andrews,Oludare,VR Headset,4,500
+2021-03-15,155,Christine Brown,Andiswa,Smart TV,1,700
+2021-11-22,56,Abigail Miller,Edmund,Headphones,1,50
+2022-11-05,168,Robert Martinez,Nolo,External Hard Drive,1,120
+2019-04-08,950,Mrs. Cindy Smith,Nolo,Smartphone,4,760
+2023-09-07,727,Timothy Hampton,Andiswa,Printer,4,300
+2020-03-11,867,Shannon Cruz,Oludare,Desktop Computer,3,1200
+2020-04-19,890,Ricardo George,James,Headphones,2,50
+2019-09-12,843,Christopher Robinson,James,Smart Home Hub,5,200
+2021-12-18,995,Deanna Palmer,Buhari,Robot Vacuum Cleaner,5,250
+2022-03-10,943,Jacqueline Douglas,Segun,Fitness Tracker,4,430
+2021-03-04,909,Denise Wagner,Zolile,Laptop,3,1000
+2021-10-08,697,Caitlyn Chambers,Segun,E-reader,3,120
+2020-09-19,975,Cathy Vasquez,Segun,VR Headset,2,500
+2022-08-13,472,Jacqueline Strickland,Nolo,Smart TV,3,700
+2022-10-30,6,Eric Martinez,Zolile,Smartphone,5,760
+2022-07-05,333,Anthony Baker,Oludare,Digital Camera,1,780
+2022-03-22,290,Ricardo Crane,Zolile,Smartphone,1,760
+2020-01-29,617,Jeffrey Rogers,Mbali,Tablet,4,900
+2020-05-09,246,Jennifer Ortiz,Mbali,Tablet,1,900
+2021-06-17,167,Anthony Johnson,Mbali,E-reader,3,120
+2020-10-25,978,Darlene Robinson,Oludare,Desktop Computer,3,1200
+2019-09-09,443,Victoria Gonzalez,James,Drone,2,1300
+2020-01-03,99,Matthew Zavala,Zolile,Robot Vacuum Cleaner,2,250
+2022-08-07,907,Monica Kline,Mbali,Printer,3,300
+2021-08-19,434,Chad Downs,Segun,External Hard Drive,3,120
+2023-12-07,445,Ronald White,Mbali,Tablet,1,900
+2023-05-14,997,Alicia Collins,Nolo,Fitness Tracker,2,430
+2023-01-06,540,Lisa Welch,Andiswa,Tablet,3,900
+2023-01-23,82,Mr. Brandon Powell,Nolo,Wireless Earbuds,2,200
+2023-09-25,701,Brian Atkinson,James,Fitness Tracker,5,430
+2023-09-27,583,Michael Cooke,Buhari,Bluetooth Keyboard,1,100
+2020-06-18,526,Melissa Martin,Segun,Robot Vacuum Cleaner,4,250
+2023-03-30,476,Stephanie Schwartz,James,Portable Speaker,3,230
+2021-04-12,788,Robert Johnson,Andiswa,Laptop,1,1000
+2019-05-17,474,John Ford,Oludare,Headphones,4,50
+2023-01-31,427,Ronald Sanchez,James,VR Headset,5,500
+2021-03-06,776,Amanda Carter,Nolo,Drone,3,1300
+2019-10-03,941,Anthony Davis,Oludare,Digital Camera,2,780
+2023-05-13,619,Phillip Torres,James,Desktop Computer,4,1200
+2022-11-07,6,Eric Martinez,Mbali,Desktop Computer,1,1200
+2019-01-31,489,Mandy Pearson,Nolo,E-reader,5,120
+2023-10-14,311,Michael Bradford,Zolile,E-reader,3,120
+2023-11-08,139,Jesse Kidd,Buhari,Digital Camera,1,780
+2023-11-25,713,Paul Brown,Edmund,Laptop,2,1000
+2023-06-22,149,Frank Payne,Edmund,External Hard Drive,5,120
+2023-03-18,309,Nathan Williams,Nolo,Smartwatch,4,200
+2019-09-29,120,Marcus Davis,Oludare,Smartwatch,4,200
+2020-05-01,483,Sandra Sullivan,Buhari,Smart TV,5,700
+2021-11-19,302,Kimberly Torres,Mbali,Smartphone,3,760
+2019-11-09,646,Rebecca Downs,Mbali,External Hard Drive,4,120
+2019-09-10,611,Jeffrey Mitchell,Andiswa,Wireless Earbuds,1,200
+2020-05-03,498,Doris Freeman MD,Andiswa,Smart Home Hub,5,200
+2020-08-16,927,Lori Cunningham,Nolo,Fitness Tracker,1,430
+2021-07-14,433,Sara Burns,Zolile,Bluetooth Keyboard,1,100
+2023-06-25,664,Jonathan Williams,Mbali,Printer,1,300
+2020-07-11,962,Jeff Lewis,Zolile,Smart TV,4,700
+2019-02-10,295,Jeremiah Mitchell,Edmund,Printer,3,300
+2019-05-31,520,Harold Bennett,Edmund,Smart Home Hub,3,200
+2023-02-05,874,Manuel Mitchell,Nolo,Smartwatch,3,200
+2019-02-14,400,Steven Patel,Mbali,Portable Speaker,4,230
+2019-12-02,865,Robert Brown,Oludare,Drone,2,1300
+2023-04-20,768,Diana Jimenez,Segun,Printer,2,300
+2022-05-07,161,Veronica Serrano,Nolo,Desktop Computer,4,1200
+2022-06-10,506,Elizabeth Nguyen,James,Fitness Tracker,2,430
+2019-04-05,19,Lauren Bryant,Zolile,Gaming Console,3,987
+2020-09-21,179,Jeremy Nguyen,Andiswa,Smartphone,1,760
+2021-09-15,117,Matthew Rodriguez,Edmund,Desktop Computer,5,1200
+2021-11-30,265,Anthony Barnett,Zolile,Portable Speaker,1,230
+2020-07-21,571,Roy Gray,James,Smartwatch,5,200
+2023-03-18,107,Heidi Coleman,Buhari,Smart TV,4,700
+2022-05-25,774,Johnathan Pope,Segun,Desktop Computer,5,1200
+2023-03-18,879,Lindsey Glenn,Segun,Bluetooth Keyboard,1,100
+2023-05-15,172,Sarah Madden DDS,Segun,Digital Camera,3,780
+2023-11-25,300,Theresa Davis,Nolo,Robot Vacuum Cleaner,4,250
+2023-01-16,102,Mr. Scott Morales,Oludare,Portable Speaker,3,230
+2022-05-15,126,Kiara Watson,Edmund,Smart TV,4,700
+2020-05-27,7,Brian Baldwin,Edmund,Printer,3,300
+2021-06-23,176,Jerry Graham,Segun,Gaming Console,3,987
+2022-09-14,425,Roger Henry,Zolile,Fitness Tracker,2,430
+2022-06-18,543,Johnny Lewis,Mbali,Fitness Tracker,2,430
+2019-09-26,424,Brandon Serrano,Mbali,Smart TV,5,700
+2023-11-26,371,Travis Stanley,Buhari,Smart TV,2,700
+2021-02-24,735,Alice Jackson,Andiswa,Tablet,1,900
+2020-04-19,412,Cynthia Cooper,Oludare,External Hard Drive,1,120
+2021-11-18,38,Randall Duarte,Oludare,Smart Home Hub,1,200
+2019-03-11,731,Natalie Weaver,Andiswa,Wireless Earbuds,4,200
+2022-07-07,698,Monica Roach,Andiswa,Wireless Earbuds,3,200
+2019-03-27,9,Traci Conner,James,Robot Vacuum Cleaner,5,250
+2023-08-08,718,Michael Leonard,Mbali,Smart TV,2,700
+2019-03-01,640,Andrea Chavez,Nolo,Portable Speaker,4,230
+2022-05-07,903,David Reed,James,Tablet,1,900
+2020-12-01,400,Steven Patel,Oludare,Robot Vacuum Cleaner,5,250
+2021-10-09,96,Lauren Weaver,Andiswa,Bluetooth Keyboard,3,100
+2021-03-29,776,Amanda Carter,Oludare,Laptop,1,1000
+2019-07-15,553,Benjamin Hill,James,Fitness Tracker,3,430
+2019-04-14,518,James Smith MD,Segun,Smartphone,3,760
+2022-06-21,520,Harold Bennett,Zolile,Desktop Computer,1,1200
+2020-03-31,964,Robert Allen,Segun,Smart TV,3,700
+2023-01-29,6,Eric Martinez,Nolo,VR Headset,2,500
+2022-06-10,596,Amanda Aguirre,Andiswa,Drone,2,1300
+2022-07-26,292,David Murray,Oludare,E-reader,5,120
+2024-01-24,108,Anna Banks,Zolile,Robot Vacuum Cleaner,5,250
+2021-08-01,798,Rachel Drake,Zolile,Smart TV,1,700
+2023-06-17,436,Anthony Lewis,Mbali,Tablet,1,900
+2022-04-05,910,Isabella Santos,Oludare,Printer,2,300
+2020-06-23,379,Janice Harris,Andiswa,E-reader,5,120
+2019-12-31,798,Rachel Drake,Mbali,Gaming Console,5,987
+2019-05-30,434,Chad Downs,Nolo,Printer,4,300
+2022-04-26,148,Christopher Jones,Andiswa,Smartwatch,4,200
+2019-03-18,133,Julia Ward,Andiswa,Robot Vacuum Cleaner,1,250
+2022-12-30,467,Scott Delacruz,Nolo,Smartphone,2,760
+2019-03-21,379,Janice Harris,Segun,Drone,4,1300
+2019-12-06,379,Janice Harris,James,Smartphone,5,760
+2019-10-03,381,Michael Jackson,James,Portable Speaker,3,230
+2021-05-29,29,Maria Chandler,Oludare,Smartwatch,5,200
+2020-10-30,960,Karen Frazier,James,Wireless Earbuds,2,200
+2022-09-26,758,Jennifer Fernandez,Nolo,Laptop,1,1000
+2023-06-29,70,Erik Adkins,Buhari,External Hard Drive,4,120
+2021-01-20,580,Jacob Smith,Nolo,VR Headset,4,500
+2023-07-15,738,Dr. Rebecca Spencer,Oludare,Smartwatch,5,200
+2022-04-19,780,Stephen Rogers,Nolo,Smart TV,2,700
+2021-08-17,334,Jennifer Hunter,Segun,Drone,5,1300
+2021-12-19,239,Nicholas Barry,Mbali,VR Headset,5,500
+2021-04-03,687,Christina Herrera,Nolo,Gaming Console,1,987
+2020-02-04,725,Lisa Harris,Buhari,Smart Home Hub,3,200
+2021-12-13,127,Patricia Morales,Andiswa,Tablet,2,900
+2020-07-26,555,Chase Aguirre,Buhari,Smart Home Hub,5,200
+2020-01-25,488,Joel Nunez,Andiswa,Laptop,1,1000
+2020-01-09,545,Joshua Jackson,Oludare,Laptop,3,1000
+2019-03-02,252,Claudia Henry,Nolo,Tablet,5,900
+2019-11-18,412,Cynthia Cooper,Buhari,Printer,1,300
+2021-05-19,185,Michael Ochoa,Mbali,Laptop,5,1000
+2023-11-06,264,Ryan Duke,Segun,Desktop Computer,1,1200
+2020-08-10,293,Dr. Tammie Roberts,Oludare,Headphones,3,50
+2021-05-20,158,Kayla Lin,James,External Hard Drive,2,120
+2023-03-02,985,Amanda Gray,Zolile,Headphones,1,50
+2019-03-30,306,David Banks,Mbali,Desktop Computer,3,1200
+2021-09-22,915,Steven Brooks,Zolile,Gaming Console,4,987
+2021-04-10,922,Allison Robinson,Segun,Smartphone,2,760
+2022-09-29,612,Jacqueline Hamilton,Edmund,Printer,5,300
+2023-08-13,395,Elizabeth Gonzalez,Segun,Gaming Console,1,987
+2019-03-23,567,Sabrina Stephenson,Mbali,Tablet,4,900
+2022-08-02,649,Robert Ruiz,Edmund,Laptop,3,1000
+2023-06-15,601,Rachel Yu,Segun,Fitness Tracker,5,430
+2023-09-21,129,Mary Scott,James,Smart Home Hub,4,200
+2021-11-19,867,Shannon Cruz,Andiswa,Digital Camera,2,780
+2021-11-06,173,Cole Nelson,Edmund,Bluetooth Keyboard,4,100
+2022-01-22,569,Thomas Vargas,Nolo,Smartphone,1,760
+2023-02-23,985,Amanda Gray,James,Headphones,1,50
+2024-01-27,944,Kathryn Brown,Nolo,Gaming Console,5,987
+2020-04-29,697,Caitlyn Chambers,Mbali,Portable Speaker,2,230
+2021-05-02,523,Tyler Wolf,James,Smartphone,2,760
+2023-10-29,577,Matthew Long,Segun,Wireless Earbuds,1,200
+2021-02-17,126,Kiara Watson,Oludare,Bluetooth Keyboard,3,100
+2022-08-10,216,Samantha Perry,Andiswa,VR Headset,3,500
+2021-10-16,771,Scott Wagner,Nolo,Gaming Console,2,987
+2022-01-30,330,Kyle Neal,Zolile,Digital Camera,4,780
+2023-12-27,337,Michael Martinez,Buhari,Smartwatch,1,200
+2019-02-12,5,Michael Hernandez,Buhari,Headphones,4,50
+2022-06-06,714,Rachel Smith,Nolo,E-reader,5,120
+2020-11-06,898,Nathan Sparks,Segun,Bluetooth Keyboard,1,100
+2021-02-03,836,Kathy Ruiz,Nolo,Desktop Computer,3,1200
+2021-03-14,386,Nicole Richardson,Zolile,E-reader,2,120
+2022-11-03,832,William Best,Buhari,Desktop Computer,4,1200
+2019-08-13,198,Monica Torres,Nolo,Laptop,2,1000
+2023-10-20,777,John Deleon,James,Portable Speaker,2,230
+2021-06-14,629,Shane Hanson,James,Fitness Tracker,2,430
+2021-09-14,991,Mandy Reynolds,Zolile,Smartphone,3,760
+2021-04-07,721,Curtis Robinson,Edmund,Laptop,2,1000
+2023-04-17,654,Tammy Meyer,Mbali,Desktop Computer,3,1200
+2023-07-08,506,Elizabeth Nguyen,Oludare,Bluetooth Keyboard,2,100
+2022-11-09,580,Jacob Smith,Oludare,Tablet,5,900
+2020-12-17,67,Wanda Stein,Oludare,Gaming Console,5,987
+2022-10-31,903,David Reed,Andiswa,Gaming Console,2,987
+2022-01-27,24,Daniel Medina,Andiswa,Drone,3,1300
+2022-05-17,905,Danny Morgan,Nolo,Laptop,4,1000
+2023-05-28,966,Austin Fox,Buhari,VR Headset,4,500
+2021-04-05,417,Justin Brown,James,Desktop Computer,5,1200
+2019-11-23,371,Travis Stanley,Andiswa,Smartphone,2,760
+2022-07-29,941,Anthony Davis,Mbali,Bluetooth Keyboard,4,100
+2023-10-18,402,Mark Castro,Edmund,VR Headset,1,500
+2022-08-15,828,Aaron Powers,Buhari,Fitness Tracker,4,430
+2023-08-16,940,Joshua Davis,Edmund,Digital Camera,2,780
+2019-10-22,65,David Simmons,Segun,Laptop,4,1000
+2021-04-21,25,Jennifer Smith,Zolile,Gaming Console,2,987
+2022-10-07,245,Briana Brown,Zolile,Smartphone,3,760
+2021-09-09,243,James Moore,Segun,Drone,5,1300
+2020-07-19,98,Juan Simon,Nolo,Smart Home Hub,1,200
+2021-05-21,63,Michael Fox,Buhari,E-reader,3,120
+2023-12-19,711,Paul Alexander,Segun,Smartwatch,1,200
+2023-04-18,453,Whitney Smith,Buhari,Wireless Earbuds,5,200
+2021-07-12,68,Richard Murray,Segun,Smartphone,5,760
+2021-06-01,871,Amy Carter,Mbali,E-reader,1,120
+2022-04-24,421,Melissa Phillips MD,Edmund,Drone,5,1300
+2019-03-30,394,Brian Taylor,Nolo,External Hard Drive,5,120
+2022-05-22,348,Robert George,Buhari,Smart TV,5,700
+2023-10-19,198,Monica Torres,Segun,Desktop Computer,1,1200
+2020-07-09,70,Erik Adkins,Edmund,Smart Home Hub,2,200
+2022-11-21,263,Robert Vasquez,Zolile,External Hard Drive,4,120
+2020-03-10,456,Timothy Wade,Oludare,Fitness Tracker,2,430
+2023-03-06,62,Michael Johnson,Oludare,Wireless Earbuds,5,200
+2023-05-25,983,Courtney Valdez,Zolile,Wireless Earbuds,5,200
+2022-07-14,795,Tammy Park,Oludare,Smartwatch,4,200
+2023-10-09,352,Anthony Davidson,James,Portable Speaker,1,230
+2023-11-04,674,Carlos Hernandez,Oludare,Smartphone,2,760
+2021-09-24,856,Brandi Kramer,Andiswa,Smartphone,4,760
+2020-08-28,1000,Kimberly Young,Edmund,Digital Camera,1,780
+2021-06-12,684,Ashley Franco,Nolo,Smart TV,5,700
+2019-03-27,873,Larry Banks,Zolile,Drone,3,1300
+2019-09-04,167,Anthony Johnson,Segun,Smart TV,1,700
+2023-07-18,943,Jacqueline Douglas,Buhari,Fitness Tracker,2,430
+2023-03-14,219,Jennifer Rodriguez,Edmund,Printer,3,300
+2023-09-03,385,Mrs. Monica Mitchell,Edmund,E-reader,2,120
+2020-09-19,7,Brian Baldwin,Zolile,Laptop,1,1000
+2021-01-22,569,Thomas Vargas,Segun,Smartwatch,3,200
+2020-05-29,647,Christopher Miller,Zolile,Smartphone,1,760
+2023-05-26,291,Jennifer Tucker,Oludare,Fitness Tracker,3,430
+2021-03-18,348,Robert George,Andiswa,Fitness Tracker,2,430
+2019-10-13,181,Michael Hansen,James,Desktop Computer,1,1200
+2024-01-08,141,Lori Castro,Mbali,Desktop Computer,3,1200
+2022-05-12,313,Alan Quinn,Nolo,Fitness Tracker,3,430
+2020-06-07,677,Alicia Turner,Oludare,Robot Vacuum Cleaner,5,250
+2022-07-19,900,Ricardo Buck,Segun,Desktop Computer,2,1200
+2020-10-01,134,Trevor Mcdonald,Edmund,Digital Camera,5,780
+2021-10-08,384,Wendy Roberson,Zolile,Drone,4,1300
+2023-04-08,251,Scott Walker,Buhari,Drone,5,1300
+2023-07-24,549,Hector Manning,James,Smartwatch,3,200
+2020-08-04,645,Courtney Davidson,James,Smartwatch,5,200
+2022-09-29,908,Ronnie Garner,Nolo,Digital Camera,1,780
+2020-04-07,810,Bryan Campos,Segun,Headphones,5,50
+2020-08-16,904,Lisa Hall,Andiswa,Portable Speaker,4,230
+2023-05-14,184,Samantha Robertson,Zolile,Portable Speaker,5,230
+2021-12-06,733,Judy Lee,Nolo,Printer,3,300
+2022-11-09,654,Tammy Meyer,Buhari,Digital Camera,2,780
+2020-01-11,463,Kristina Mcclure,Edmund,E-reader,2,120
+2020-10-12,911,Stephanie Villarreal,Mbali,Smart Home Hub,2,200
+2021-07-26,384,Wendy Roberson,James,Bluetooth Keyboard,1,100
+2022-10-16,87,Theresa Bates,James,Smart TV,5,700
+2022-03-08,598,Emma Smith,Buhari,Smart TV,5,700
+2022-07-09,437,Kendra Smith,Nolo,Smart TV,4,700
+2024-01-15,824,Andrew Harris,Nolo,VR Headset,3,500
+2021-06-26,184,Samantha Robertson,Nolo,Fitness Tracker,3,430
+2023-06-05,368,Rachel Melton,Segun,Wireless Earbuds,5,200
+2019-05-28,660,Tyler Hendricks,Segun,Gaming Console,2,987
+2021-02-12,74,Steven Dickerson,Zolile,Smartphone,5,760
+2023-06-17,202,Mark Mason,Zolile,Gaming Console,3,987
+2022-02-13,787,Justin Johnson,James,Digital Camera,5,780
+2019-06-20,876,Dawn Sullivan,Andiswa,Gaming Console,1,987
+2021-07-03,289,James Hardy,Zolile,E-reader,4,120
+2023-11-03,776,Amanda Carter,Buhari,Printer,5,300
+2019-06-09,975,Cathy Vasquez,Oludare,E-reader,2,120
+2023-11-17,768,Diana Jimenez,Edmund,Printer,2,300
+2021-03-15,805,Kaylee Callahan,Andiswa,Smart TV,4,700
+2019-02-14,88,Donna Hardy,Zolile,Digital Camera,4,780
+2023-08-18,715,Sarah Bates,Mbali,Digital Camera,4,780
+2021-11-01,572,Jacqueline Parker,Buhari,Portable Speaker,2,230
+2021-04-07,132,Eric Mercer,James,Laptop,4,1000
+2022-01-30,855,Melissa Fisher,Zolile,VR Headset,2,500
+2023-06-04,703,Julie Wheeler DDS,Mbali,Bluetooth Keyboard,3,100
+2021-03-09,24,Daniel Medina,Buhari,Smartwatch,2,200
+2023-12-13,339,Thomas Simmons,Mbali,E-reader,2,120
+2019-08-23,66,Selena Ayala MD,Andiswa,E-reader,2,120
+2021-03-31,337,Michael Martinez,Nolo,Wireless Earbuds,1,200
+2019-05-06,692,Madeline Moore,Andiswa,Headphones,1,50
+2022-03-12,618,Sarah Ellison,Nolo,Laptop,2,1000
+2021-04-02,934,Brian Anderson,Mbali,Wireless Earbuds,2,200
+2020-01-13,676,Karen Dunn,Andiswa,Tablet,4,900
+2021-12-23,531,Tammy Evans,Buhari,Headphones,3,50
+2022-12-26,421,Melissa Phillips MD,Mbali,Headphones,1,50
+2019-12-13,429,Amber Mitchell,Nolo,Tablet,4,900
+2020-01-30,887,Benjamin Garza,Edmund,Smartwatch,2,200
+2019-10-20,838,Douglas Robinson,Nolo,Headphones,5,50
+2020-03-18,318,Thomas Mcfarland,Edmund,Robot Vacuum Cleaner,4,250
+2022-05-23,8,Larry Barnett III,Oludare,Smart TV,1,700
+2019-05-17,620,April Jordan,Edmund,Robot Vacuum Cleaner,3,250
+2022-10-29,901,Joseph Gillespie,Nolo,Smart TV,4,700
+2020-01-04,755,Mr. Ryan Clark,Segun,Wireless Earbuds,4,200
+2019-12-27,863,Yesenia Morris,James,E-reader,5,120
+2023-08-21,871,Amy Carter,Oludare,External Hard Drive,2,120
+2020-04-21,633,Elizabeth Lee,Mbali,Smart TV,4,700
+2020-12-18,188,Jeffery Higgins,Segun,E-reader,1,120
+2019-10-04,892,Christine Good,Oludare,Gaming Console,5,987
+2022-07-29,939,George Foster,Segun,Digital Camera,4,780
+2023-11-05,781,Kirsten Taylor,Andiswa,Desktop Computer,3,1200
+2024-01-15,108,Anna Banks,Andiswa,VR Headset,4,500
+2023-02-03,259,Michael Hart,Edmund,Robot Vacuum Cleaner,1,250
+2019-08-16,75,Thomas Cook,Nolo,E-reader,3,120
+2020-03-05,877,David Baker,Edmund,E-reader,1,120
+2021-10-26,118,Anthony Miller,Oludare,VR Headset,4,500
+2022-05-26,70,Erik Adkins,Segun,Bluetooth Keyboard,2,100
+2024-01-07,449,Nicholas Smith,Oludare,Printer,3,300
+2023-12-13,175,Lisa Murphy,Buhari,Drone,1,1300
+2020-08-12,128,Joshua Holder,Andiswa,E-reader,2,120
+2023-10-18,782,Scott Mccoy,Buhari,Gaming Console,2,987
+2022-07-26,183,Sara Smith,Edmund,Smartphone,5,760
+2022-01-09,714,Rachel Smith,Buhari,Robot Vacuum Cleaner,1,250
+2021-03-13,316,Michael Hart,Nolo,Smartphone,5,760
+2019-07-12,791,Elizabeth Parker,Mbali,Digital Camera,2,780
+2023-11-05,245,Briana Brown,Edmund,Tablet,1,900
+2020-08-27,15,Daniel Wallace,Zolile,Digital Camera,1,780
+2020-12-01,904,Lisa Hall,Segun,Headphones,2,50
+2019-06-10,525,Mr. Jason Roberts PhD,Segun,VR Headset,3,500
+2022-11-05,195,Jamie Hudson,Edmund,Bluetooth Keyboard,4,100
+2023-06-12,124,Andrea Brooks,Edmund,Digital Camera,1,780
+2020-06-04,178,Patricia Rodriguez,Buhari,E-reader,3,120
+2020-12-18,218,Justin Perkins,Nolo,Fitness Tracker,1,430
+2021-04-21,286,Shawn Arellano,Zolile,Smartphone,1,760
+2023-08-19,421,Melissa Phillips MD,James,Drone,4,1300
+2019-02-25,105,Alison Miller,Andiswa,Smart Home Hub,2,200
+2023-08-17,98,Juan Simon,Zolile,E-reader,2,120
+2023-06-15,651,Kristine Smith,Zolile,Printer,1,300
+2020-01-14,624,Travis Black,Nolo,E-reader,5,120
+2021-02-27,239,Nicholas Barry,Andiswa,Smart Home Hub,1,200
+2022-03-01,632,Teresa Schultz,Segun,Wireless Earbuds,2,200
+2023-06-23,776,Amanda Carter,Edmund,Drone,1,1300
+2021-03-05,384,Wendy Roberson,Nolo,Wireless Earbuds,2,200
+2023-12-01,210,Cheryl Bullock,Buhari,Fitness Tracker,5,430
+2019-12-27,455,Kirsten Terry,Zolile,Smartwatch,3,200
+2022-05-20,806,Sherri Moore,Buhari,Robot Vacuum Cleaner,4,250
+2022-11-14,296,Rachel Perez,Buhari,Fitness Tracker,3,430
+2023-10-21,211,Becky Brown,Andiswa,Smartphone,2,760
+2022-12-13,713,Paul Brown,Edmund,Drone,4,1300
+2023-11-23,188,Jeffery Higgins,Nolo,Laptop,1,1000
+2019-04-18,72,Christian Sanchez,Edmund,Smartphone,2,760
+2023-08-13,129,Mary Scott,Segun,Headphones,5,50
+2020-07-19,815,Matthew Cooper,Edmund,Fitness Tracker,5,430
+2023-09-24,743,Bill Rivas,Nolo,Wireless Earbuds,2,200
+2021-09-18,251,Scott Walker,Mbali,Headphones,5,50
+2022-06-18,293,Dr. Tammie Roberts,Nolo,Digital Camera,3,780
+2022-04-06,493,Luis James,Segun,Portable Speaker,4,230
+2019-08-25,483,Sandra Sullivan,Nolo,External Hard Drive,5,120
+2021-08-25,444,Amber Jackson,Oludare,Printer,1,300
+2019-11-20,438,Mr. James Benton,Segun,Wireless Earbuds,5,200
+2019-10-06,567,Sabrina Stephenson,Oludare,Gaming Console,4,987
+2020-05-11,465,Scott Lin,James,E-reader,5,120
+2023-05-18,74,Steven Dickerson,Zolile,Smartwatch,4,200
+2023-12-06,939,George Foster,Edmund,Laptop,1,1000
+2019-10-27,748,Michael Harris,Zolile,Printer,4,300
+2020-02-18,963,Mary Moore,Mbali,Portable Speaker,4,230
+2019-10-31,657,Margaret King,Segun,External Hard Drive,1,120
+2019-04-03,128,Joshua Holder,Mbali,Smart Home Hub,2,200
+2022-09-29,447,Jeffrey Andrews,James,Portable Speaker,5,230
+2019-11-27,651,Kristine Smith,Zolile,Smartphone,4,760
+2021-03-12,754,Philip Fritz,Edmund,Fitness Tracker,4,430
+2020-02-14,833,Kristie Alexander,Zolile,Laptop,2,1000
+2022-03-21,467,Scott Delacruz,Oludare,Gaming Console,2,987
+2022-04-03,975,Cathy Vasquez,Oludare,Laptop,1,1000
+2022-03-25,660,Tyler Hendricks,Mbali,E-reader,5,120
+2020-03-30,83,Dawn Hayes MD,Andiswa,Digital Camera,4,780
+2021-12-15,438,Mr. James Benton,James,Wireless Earbuds,5,200
+2021-05-18,675,Alyssa Burns,Mbali,Smart Home Hub,3,200
+2022-01-05,771,Scott Wagner,Segun,Desktop Computer,5,1200
+2019-10-22,353,Barbara Sheppard,Oludare,Gaming Console,2,987
+2020-10-31,408,Monica Jenkins MD,James,Laptop,2,1000
+2022-11-22,2,Danielle Olson,Segun,Tablet,4,900
