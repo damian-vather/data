@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz identifier="gfc595bf1adcafc6a60fa5f3ef42c1dd3" xmlns="http://canvas.instructure.com/xsd/cccv1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://canvas.instructure.com/xsd/cccv1p0 https://canvas.instructure.com/xsd/cccv1p0.xsd">
+  <title>Activity: The Future of Work</title>
+  <description>&lt;p&gt;The goal of this activity is to assist you in getting ready for the future of work by researching your industry and keeping yourself informed about the most recent trends and technologies that are influencing the workplace. To complete this activity, follow the steps mentioned below. &lt;strong&gt;Please note that this activity is a part of your Milestone #7 submission.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Here are the steps you need to take:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 1. Research your industry: &lt;/strong&gt;Start by identifying your specific niche and researching the latest trends and developments in your industry. You can do this by reading blogs, articles, and reports from reputable sources related to your field.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 2. Summarize key points:&lt;/strong&gt; Once you have completed your research, write a short paragraph summarizing the key points you found in your chosen article or blog post. Make sure to include any important statistics, trends, or predictions related to the future of work in your niche.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 3. Search for an online event:&lt;/strong&gt; Look for an online event related to the future of work on Eventbrite or LinkedIn. You can search by keyword or topic to find events that align with your interests and goals. Choose an event that is scheduled between &lt;strong&gt;March to May 2024.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 4. Register for the event:&lt;/strong&gt; Once you have found a relevant event, register for it to secure your spot. Make note of the date and time so you can attend the event when it occurs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 5. Submit your summary and event link:&lt;/strong&gt; After completing both the research and the event, submit your summary of the article or blog post you read, along with the link to the online event you attended.&lt;/p&gt;
+&lt;p&gt;&lt;iframe class="giphy-embed" title="embedded content" src="https://giphy.com/embed/FpoVnXiy1H6OGDI2tb" width="480" height="270" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #236fa1;"&gt;&lt;em&gt;Feel free to share your event and blog summary with your Peers on The Portal!&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+  <shuffle_answers>false</shuffle_answers>
+  <scoring_policy>keep_highest</scoring_policy>
+  <hide_results></hide_results>
+  <quiz_type>practice_quiz</quiz_type>
+  <points_possible>2.0</points_possible>
+  <require_lockdown_browser>false</require_lockdown_browser>
+  <require_lockdown_browser_for_results>false</require_lockdown_browser_for_results>
+  <require_lockdown_browser_monitor>false</require_lockdown_browser_monitor>
+  <lockdown_browser_monitor_data/>
+  <show_correct_answers>true</show_correct_answers>
+  <anonymous_submissions>false</anonymous_submissions>
+  <could_be_locked>true</could_be_locked>
+  <disable_timer_autosubmission>false</disable_timer_autosubmission>
+  <allowed_attempts>-1</allowed_attempts>
+  <one_question_at_a_time>false</one_question_at_a_time>
+  <cant_go_back>false</cant_go_back>
+  <available>true</available>
+  <one_time_results>false</one_time_results>
+  <show_correct_answers_last_attempt>false</show_correct_answers_last_attempt>
+  <only_visible_to_overrides>false</only_visible_to_overrides>
+  <module_locked>false</module_locked>
+  <assignment_group_identifierref>g857aa2a8e31843b5ce966cdf8f2664cc</assignment_group_identifierref>
+  <assignment_overrides>
+  </assignment_overrides>
+</quiz>
